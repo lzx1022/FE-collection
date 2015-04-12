@@ -6,17 +6,13 @@
 ##目录
 
 1. 资源集
+	* Luo Lei 的前端收集：https://github.com/foru17/front-end-collect
+	* 腾讯-TGideas-小倪的收集：http://www.whycss.com/
 2. 聚合类博客
 	1. 国内 
 	2. 国外 
-	3. |A |B | C | D|E|  
-	| ----- | ----- | ------ |----- |-----|
-	| Content Cell | Content Cell  | Content Cell |
-	| Content Cell | Content Cell  | Content Cell |
   
 3. 标准 / 会议 / 社区 / 组织 / 比赛
-
-
 
 
 
