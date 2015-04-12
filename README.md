@@ -26,7 +26,7 @@
 3. 标准 / 会议 / 社区 / 组织 / 比赛
 	1. 标准
 		* WHATWG：https://whatwg.org/
-		* W3C：
+		* W3C：https://www.w3.org
 		* http://html5apps-project.eu/
 	2. 会议
 		1. 国内
