@@ -14,7 +14,7 @@
 	1. 国内 
 		* w3cplus：http://www.w3cplus.com/    
 		* CSS88 / 愚人码头：http://www.css88.com/ 
-		* 前端观察：http://www.qianduan.net/      神飞联合创立，神飞目前是腾讯微信设计团队
+		* 前端观察：http://www.qianduan.net/ 神飞联合创立，神飞目前是腾讯微信设计团队  微信设计团队微信设计团队微信设计团队微信设计团队微信设计团队
 		* 前端乱炖：http://www.html-js.com/
 		* w3cfuns：http://www.w3cfuns.com/ 
 		* CSS 森林：http://www.cssforest.org/
