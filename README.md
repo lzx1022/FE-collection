@@ -10,7 +10,6 @@
 		* Luo Lei 的前端收集：https://github.com/foru17/front-end-collect
 		* 腾讯-TGideas-小倪的收集：http://www.whycss.com/
 		* cnblogs 上一个帖子：http://www.cnblogs.com/jingangel/archive/2012/06/16/2551535.html
-----
 2. 聚合类博客
 	1. 国内 
 		* w3cplus：http://www.w3cplus.com/    
@@ -24,13 +23,11 @@
 		* HTML5rocks：http://www.html5rocks.com/
 		* HTML5rocks-中文版：http://www.html5rocks.com/zh/
 		* http://dailyjs.com/
-----
 3. 标准 / 会议 / 社区 / 组织 / 比赛
 	1. 标准
 		* WHATWG：https://whatwg.org/
 		* W3C：
 		* http://html5apps-project.eu/
-		
 	2. 会议
 		1. 国内
 			* webrebuild：http://www.webrebuild.org/      
@@ -38,7 +35,6 @@
 		2. 国外
 			* JSConf：http://jsconf.com/
 			* velocityconf：http://velocityconf.com/
-			
 	3. 社区
 		1. 国内
 			* angular.js：http://angularjs.cn/
@@ -46,8 +42,7 @@
 			* Node.js 中国：https://cnodejs.org/
 			* F2E：http://www.f2e.im/
 		2. 国外
-			* asas
-
+			* example
 	4. 组织
 		1. 国内
 			1. 百度
@@ -71,13 +66,9 @@
 				* 京东-GDC：http://jdc.jd.com/about 
 				* 1号店-UED：http://ued.yhd.com/blog
 				* 去哪儿-UED：http://ued.yhd.com/blog
-				
 		2. 国外
 			* MDN：https://developer.mozilla.org
-	
 	5. 比赛
-	
-----
 4. 个人博客
 	1. 国内
 		1. 百度系
