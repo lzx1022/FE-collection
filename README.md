@@ -19,6 +19,7 @@
 		* 前端乱炖：http://www.html-js.com/
 		* w3cfuns：http://www.w3cfuns.com/ 
 		* CSS 森林：http://www.cssforest.org/
+		* 大前端：http://www.daqianduan.com/
 	2. 国外
 		* Smashing Magazine：http://www.smashingmagazine.com/ 
 		* HTML5rocks：http://www.html5rocks.com/
@@ -29,19 +30,24 @@
 		* CSS-tricks：https://css-tricks.com/
 		* HTML5weekly：http://html5weekly.com/
 		* JS weekly：http://javascriptweekly.com/
-3. 标准 / 会议 / 社区 / 组织 / 比赛
+3. 标准 / 教程 / 会议 / 社区 / 组织 / 比赛
 	1. 标准
 		* WHATWG：https://whatwg.org/
 		* W3C：https://www.w3.org
 		* http://html5apps-project.eu/
-	2. 会议
+	2. 教程
+		* 英文：http://www.w3schools.com/
+		* 中文：http://www.w3cschool.cc/
+		* 中文：http://www.w3cschool.cn/
+	
+	3. 会议
 		1. 国内
 			* webrebuild：http://www.webrebuild.org/      
 			* JSConfChina：http://jsconf.cn/ 
 		2. 国外
 			* JSConf：http://jsconf.com/
 			* velocityconf：http://velocityconf.com/
-	3. 社区
+	4. 社区
 		1. 国内
 			* angular.js：http://angularjs.cn/
 			* reactChina：http://react-china.org/
@@ -49,8 +55,9 @@
 			* F2E：http://www.f2e.im/
 		2. 国外
 			* example
-	4. 组织
+	5. 组织
 		1. 国内
+			UED 大全：http://rensanning.iteye.com/blog/1585046
 			1. 百度
 				* 百度-EFE：http://efe.baidu.com/
 				* 百度-FEX：http://fex.baidu.com/ Web前端研发部
@@ -74,7 +81,7 @@
 				* 去哪儿-UED：http://ued.yhd.com/blog
 		2. 国外
 			* MDN：https://developer.mozilla.org
-	5. 比赛
+	6. 比赛
 4. 个人博客
 	1. 国内
 		1. 百度系
@@ -94,7 +101,9 @@
 				* UED-苏洋：http://www.soulteary.com/ 目前貌似在美团了
 				* 郭凯/流火：http://www.benben.cc/
 				* 无线-勾三股四：http://jiongks.name/about/
-				* 无线-winter：http://www.cnblogs.com/winter-cn
+				* 无线-winter：http://www.cnblogs.com/winter-cn 负责人
+				* 无线-Wenli Zhang：http://zhangwenli.com/ 15实习生
+				* http://guangwong.com/ 14新人
 			2. 支付宝
 				* 安全团队-http://shaoshuai.me/
 				* cateyes：http://cateyes.blue/ 貌似14新人
@@ -103,11 +112,13 @@
 				* 体验技术部-玉伯：http://lifesinger.github.com/ 负责人
 				* 体验技术部-承玉[yiminghe]：http://blog.yiminghe.me/ kissy 的主要开发者
 				* 体验技术部-侯振宇：http://www.cnblogs.com/sskyy/
+				* 苏千：http://fengmk2.com/
 			3. 阿里妈妈
 				* 李牧：http://limu.iteye.com/ 负责人
 				* 陈养剑：http://cyj.me/about/  
 				* 一丝：http://www.iyunlu.com/view/
 			4. 其他
+				* 天猫-dead_horse：https://github.com/dead-horse 
 				* wileam：http://wileam.com/ 妹纸
 				* 闲心博客：http://sentsin.com/ 貌似已经不在阿里
 				* 阿里国际站：http://freestyle21.cn/about/  
@@ -115,6 +126,7 @@
 				* 色拉油啊油：http://www.cnblogs.com/dolphinX/   
 				* 神马搜索-hacke2：http://www.hacke2.cn/ 15新人   
 				* 航旅无线-抜赤：http://jayli.github.io/blog/
+				* 航旅无线-：http://www.linkgod.net/ 14新人
 				* 数据平台-Alsotang：http://fxck.it Node.js工程师
 				* yuanzhaohao：http://www.yuanzhaohao.com/ 14新人
 		3. 腾讯系
@@ -133,13 +145,15 @@
 			* ：http://www.xuanfengge.com/ 14新人
 		4. 其他		
 			* 新浪-Franky：http://www.cnblogs.com/_franky/
-			* 新浪-随即：http://random.cnblogs.com 貌似刚去百度[15.4.10]
+			* 新浪-随机：http://random.cnblogs.com 貌似刚去百度[15.4.10]
+			* 豆瓣-张克军：http://hikejun.com/ 资历较长
+			* 豆瓣-Miko Gao/糖拌西红柿：http://gaowhen.com/      
 			* Facebook-CatChen：http://chinese.catchen.me/ & http://cathsfz.cnblogs.com/
 			* 去哪儿-doyeo：http://blog.doyoe.com/ CSS 为主
 			* 去哪儿-司徒正美：http://www.cnblogs.com/rubylouvre/ JS框架设计
 			* sofish：http://sofi.sh/ 支付宝-百姓网-饿了么
 			* 百姓网-贺师俊[贺老]：http://hax.iteye.com/ 资历较长
-			* 豆瓣-张克军：http://hikejun.com/ 资历较长
+			* 顺丰-周文彬：http://www.zhouwenbin.com 比较关注动画相关的web技术
 			* IBM-米粽粽：http://myst729.github.io/
 			* 张晓菲：http://shawphy.com/ 《锋利的jQuery》作者之一
 			* 阿肆：http://www.ivershuo.com/
@@ -153,9 +167,11 @@
 			* 次碳酸钴：http://www.web-tinker.com/
 			* thonatos：http://www.thonatos.com/blog
 			* 小懒：http://laispace.com/ 14新人
+			* 翁天信：http://blog.dandyweng.com/ 自学党，有设计感
 		5. 综合质量较高的个人博客
 			* 支付宝-阮一峰：http://www.ruanyifeng.com/blog/
 			* 廖雪峰：http://www.liaoxuefeng.com/ 有一些不错的教程，比如 Git 和 Python
+
 	2. 国外
 		1. Google
 			* Steve Souders：http://www.stevesouders.com/ 有不少著作
@@ -164,7 +180,7 @@
 			* Paul Irish：http://www.paulirish.com/
 			* Addy Osmani：http://addyosmani.com/blog/
 		2. Facebook
-			* example 
+			* React-Bill Fisher：http://fisherwebdev.com/about
 		3. 其他
 			* FAT：http://byfat.xxx/ Bootstrap 两位创始人之一
 			* Lea Verou：http://lea.verou.me/ 妹纸，invited expert in the W3C CSS Working Group
