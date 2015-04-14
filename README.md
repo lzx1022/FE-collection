@@ -6,10 +6,12 @@
 ##目录
 
 1. 资源集
-	1. 国内
+	1. 其他人的收藏
 		* Luo Lei 的前端收集：https://github.com/foru17/front-end-collect 里面的聚合类博客比较全面
 		* 腾讯-TGideas-小倪的收集：http://www.whycss.com/
 		* cnblogs 上一个帖子：http://www.cnblogs.com/jingangel/archive/2012/06/16/2551535.html
+	2. 书籍资源
+		* e-Book：http://it-ebooks.info/ 貌似经过授权可下载? 未确定
 2. 聚合类博客
 	1. 国内 
 		* w3cplus：http://www.w3cplus.com/    
