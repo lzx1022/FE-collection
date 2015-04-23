@@ -27,6 +27,8 @@
 		* HTML5rocks：http://www.html5rocks.com/
 		* HTML5rocks-中文版：http://www.html5rocks.com/zh/
 		* dailyjs：http://dailyjs.com/
+		* jsrock：http://jsrocks.org/
+		* jsrock：http://jsrocks.org/cn/
 		* CSS 禅意花园：http://www.csszengarden.com/
 		* scotch：https://scotch.io/
 		* CSS-tricks：https://css-tricks.com/
@@ -69,6 +71,7 @@
 				* 阿里巴巴[中国站]-UED：http://www.aliued.cn/
 				* 阿里巴巴[国际站]-UED：http://www.aliued.com/
 				* 蚂蚁金服-金融体验设计团队：http://alipayifed.com
+				* 阿里妈妈-MUX：http://mux.alimama.com/
 			3. 腾讯
 				* ISUX：http://isux.tencent.com/
 				* AlloyTeam：http://www.alloyteam.com/      目前依旧持续更新
@@ -83,6 +86,7 @@
 				* 去哪儿-UED：http://ued.yhd.com/blog
 		2. 国外
 			* MDN：https://developer.mozilla.org
+			* w3cfools：http://www.w3fools.com/
 	6. 比赛
 4. 个人博客
 	1. 国内
@@ -106,6 +110,7 @@
 				* 无线-winter：http://www.cnblogs.com/winter-cn 负责人
 				* 无线-Wenli Zhang：http://zhangwenli.com/ 15实习生
 				* http://guangwong.com/ 14新人
+				* 张秋怡：http://joyeecheung.cnblogs.com/ 15实习生，很厉害
 			2. 支付宝
 				* 安全团队-http://shaoshuai.me/
 				* cateyes：http://cateyes.blue/ 貌似14新人
@@ -155,6 +160,10 @@
 			* 去哪儿-司徒正美：http://www.cnblogs.com/rubylouvre/ JS框架设计
 			* sofish：http://sofi.sh/ 支付宝-百姓网-饿了么
 			* 百姓网-贺师俊[贺老]：http://hax.iteye.com/ 资历较长
+			* 网易-栓萝卜的棒子：http://leeluolee.github.io/
+			* Teambition-严清：http://github.com/zensh
+			* Teambition-题叶：http://tiye.me
+			* Teambition-寸志：http://island205.com/
 			* 顺丰-周文彬：http://www.zhouwenbin.com 比较关注动画相关的web技术
 			* IBM-米粽粽：http://myst729.github.io/
 			* 张晓菲：http://shawphy.com/ 《锋利的jQuery》作者之一
@@ -173,6 +182,7 @@
 		5. 综合质量较高的个人博客
 			* 支付宝-阮一峰：http://www.ruanyifeng.com/blog/
 			* 廖雪峰：http://www.liaoxuefeng.com/ 有一些不错的教程，比如 Git 和 Python
+			* http://rlog.cn/ 	貌似也是位前辈，文章很久没更新了
 
 	2. 国外
 		1. Google
