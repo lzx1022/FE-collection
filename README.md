@@ -1,7 +1,7 @@
 #个人收集的前端博客
 
 ##前言
-整理一些自己之前收藏的前端博客，主要以个人博客为主。这类收集网络上有不少，有一些做得颇为完整的，比如 GitHub 上 [Luo Lei 的前端收集](https://github.com/foru17/front-end-collect)。本可以直接 push 进这类项目，不过主要是想以自己的方式去组织这类资源，所以开了这个项目。
+整理一些自己之前收藏的前端博客，主要以个人博客为主。这类收集网络上有不少，有一些做得颇为完整的，比如 GitHub 上 [Luo Lei 的前端收集](https://github.com/foru17/front-end-collect)。本可以直接 push 进这类项目，不过主要是想以自己的方式去组织这类资源，所以开了这个项目 ^ ^。
 
 ##目录
 
@@ -9,7 +9,7 @@
 	1. 其他人的收藏
 		* Luo Lei 的前端收集：https://github.com/foru17/front-end-collect 里面的聚合类博客比较全面
 		* 腾讯-TGideas-小倪的收集：http://www.whycss.com/
-		* cnblogs 上一个帖子：http://www.cnblogs.com/jingangel/archive/2012/06/16/2551535.html
+		* cnblogs 一个帖子：http://www.cnblogs.com/jingangel/archive/2012/06/16/2551535.html
 	2. 书籍资源
 		* e-Book：http://it-ebooks.info/ 貌似经过授权可下载? 未确定
 2. 聚合类博客
@@ -77,6 +77,7 @@
 				* AlloyTeam：http://www.alloyteam.com/      目前依旧持续更新
 				* 腾讯网前端团队：http://qqfe.org/
 				* TGideas：http://tgideas.qq.com/ 互动娱乐设计团队
+				* TID：http://tid.tenpay.com/ 财付通设计团队
 				* 腾讯开源项目：http://tencentopen.github.io/
 			4. 其他
 				* 奇虎360-奇舞团：http://www.75team.com/
@@ -183,6 +184,7 @@
 			* 支付宝-阮一峰：http://www.ruanyifeng.com/blog/
 			* 廖雪峰：http://www.liaoxuefeng.com/ 有一些不错的教程，比如 Git 和 Python
 			* http://rlog.cn/ 	貌似也是位前辈，文章很久没更新了
+			* 代码家：http://blog.daimajia.com/	擅长Android、PHP、Node.js
 
 	2. 国外
 		1. Google
@@ -205,6 +207,14 @@
 			* Tim Bray：http://www.tbray.org/ongoing/ XML 之父
 			* Jeffrey Zeldman：http://www.zeldman.com/ 资深Web人
 			* Peter-Paul Koch：http://www.webstandards.org/about/members/ppk/
+5. 其他
+	1. Wordpress & 主机
+		* 我爱水煮鱼：http://blog.wpjam.com/
+		* 大发贱志：http://fatesinger.com/ 版式不错，干净，logo 有中国味
+		* 阿里-吴钊：http://www.neoease.com/
+		
+	2. 其他
+		* http://github-awards.com/ 查看 GitHub 排名
 
 
 
