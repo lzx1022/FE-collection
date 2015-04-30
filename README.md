@@ -3,6 +3,10 @@
 ##前言
 整理一些自己之前收藏的前端博客，主要以个人博客为主。这类收集网络上有不少，有一些做得颇为完整的，比如 GitHub 上 [Luo Lei 的前端收集](https://github.com/foru17/front-end-collect)。本可以直接 push 进这类项目，不过主要是想以自己的方式去组织这类资源，所以开了这个项目 ^ ^。
 
+一些说明：
+
+* 链接后的描述里面写有【前辈】的一般来说博客不太更新了，但是前辈的一些旧文也是很值得一看的
+
 ##目录
 
 1. 资源集
@@ -108,7 +112,7 @@
 				* UED-苏洋：http://www.soulteary.com/ 目前貌似在美团了
 				* 郭凯/流火：http://www.benben.cc/
 				* 无线-勾三股四：http://jiongks.name/about/
-				* 无线-winter：http://www.cnblogs.com/winter-cn 负责人
+				* 无线-winter：http://www.cnblogs.com/winter-cn 【前辈】负责人
 				* 无线-Wenli Zhang：http://zhangwenli.com/ 15实习生
 				* http://guangwong.com/ 14新人
 				* 张秋怡：http://joyeecheung.cnblogs.com/ 15实习生，很厉害
@@ -117,16 +121,16 @@
 				* cateyes：http://cateyes.blue/ 貌似14新人
 				* 闲云：http://hotoo.me/
 				* 麻幸林：http://www.hsinglin.com     
-				* 体验技术部-玉伯：http://lifesinger.github.com/ 负责人
+				* 体验技术部-玉伯：http://lifesinger.github.com/ 【前辈】负责人
 				* 体验技术部-承玉[yiminghe]：http://blog.yiminghe.me/ kissy 的主要开发者
 				* 体验技术部-侯振宇：http://www.cnblogs.com/sskyy/
-				* 苏千：http://fengmk2.com/
+				* 苏千：http://fengmk2.com/	
 			3. 阿里妈妈
-				* 李牧：http://limu.iteye.com/ 负责人
-				* 陈养剑：http://cyj.me/about/  
+				* 李牧：http://limu.iteye.com/【前辈】负责人
+				* 陈养剑：http://cyj.me/about/ 【前辈】
 				* 一丝：http://www.iyunlu.com/view/
 			4. 其他
-				* 天猫-dead_horse：https://github.com/dead-horse 
+				* 天猫-dead_horse：https://github.com/dead-horse koa.js 代码贡献者
 				* wileam：http://wileam.com/ 妹纸
 				* 闲心博客：http://sentsin.com/ 貌似已经不在阿里
 				* 阿里国际站：http://freestyle21.cn/about/  
@@ -138,7 +142,7 @@
 				* 数据平台-Alsotang：http://fxck.it Node.js工程师
 				* yuanzhaohao：http://www.yuanzhaohao.com/ 14新人
 		3. 腾讯系
-			* 彪叔Twinsen：http://www.twinsenliang.net/ WebRebuild发起人
+			* 彪叔Twinsen：http://www.twinsenliang.net/ 【前辈】WebRebuild发起人
 			* ISUX上海-张鑫旭：http://www.zhangxinxu.com/ 文章质量很高
 			* hzlzh：http://hzlzh.io/ GitHub 上排名较靠前
 			* 小黑：http://xiaoho.com/ 貌似主要以 CSS 为主
@@ -152,21 +156,21 @@
 			* 苏润梓：http://www.surunzi.com/ 14新人
 			* ：http://www.xuanfengge.com/ 14新人
 		4. 其他		
-			* 新浪-Franky：http://www.cnblogs.com/_franky/
+			* 新浪-Franky：http://www.cnblogs.com/_franky/ 【前辈】
 			* 新浪-随机：http://random.cnblogs.com 貌似刚去百度[15.4.10]
-			* 豆瓣-张克军：http://hikejun.com/ 资历较长
+			* 豆瓣-张克军：http://hikejun.com/ 【前辈】资历较长
 			* 豆瓣-Miko Gao/糖拌西红柿：http://gaowhen.com/      
 			* Facebook-CatChen：http://chinese.catchen.me/ & http://cathsfz.cnblogs.com/
 			* 去哪儿-doyeo：http://blog.doyoe.com/ CSS 为主
 			* 去哪儿-司徒正美：http://www.cnblogs.com/rubylouvre/ JS框架设计
-			* sofish：http://sofi.sh/ 支付宝-百姓网-饿了么
-			* 百姓网-贺师俊[贺老]：http://hax.iteye.com/ 资历较长
+			* sofish：http://sofi.sh/ 支付宝-百姓网-饿了么 【前辈】
+			* 百姓网-贺师俊[贺老]：http://hax.iteye.com/ 【前辈】资历较长
 			* 网易-栓萝卜的棒子：http://leeluolee.github.io/
-			* Teambition-严清：http://github.com/zensh
+			* Teambition-严清：http://github.com/zensh 【前辈】
 			* Teambition-题叶：http://tiye.me
 			* Teambition-寸志：http://island205.com/
 			* 顺丰-周文彬：http://www.zhouwenbin.com 比较关注动画相关的web技术
-			* IBM-米粽粽：http://myst729.github.io/
+			* IBM-米粽粽：http://myst729.github.io/ 【前辈】
 			* 张晓菲：http://shawphy.com/ 《锋利的jQuery》作者之一
 			* 阿肆：http://www.ivershuo.com/
 			* 奇舞团-屈屈：https://www.imququ.com/
@@ -180,11 +184,11 @@
 			* thonatos：http://www.thonatos.com/blog
 			* 小懒：http://laispace.com/ 14新人
 			* 翁天信：http://blog.dandyweng.com/ 自学党，有设计感
+			* 代码家：http://blog.daimajia.com/	擅长Android、PHP、Node.js
 		5. 综合质量较高的个人博客
 			* 支付宝-阮一峰：http://www.ruanyifeng.com/blog/
 			* 廖雪峰：http://www.liaoxuefeng.com/ 有一些不错的教程，比如 Git 和 Python
 			* http://rlog.cn/ 	貌似也是位前辈，文章很久没更新了
-			* 代码家：http://blog.daimajia.com/	擅长Android、PHP、Node.js
 
 	2. 国外
 		1. Google
