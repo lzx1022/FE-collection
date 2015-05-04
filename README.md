@@ -137,8 +137,9 @@
 				* 吴钊：http://www.neoease.com/    
 				* 色拉油啊油：http://www.cnblogs.com/dolphinX/   
 				* 神马搜索-hacke2：http://www.hacke2.cn/ 15新人   
-				* 航旅无线-抜赤：http://jayli.github.io/blog/
+				* 航旅无线-抜赤：http://jayli.github.io/blog/ 【前辈】
 				* 航旅无线-：http://www.linkgod.net/ 14新人
+				* 航旅无线-黄玄：http://huangxuan.me/ 大三在阿里实习
 				* 数据平台-Alsotang：http://fxck.it Node.js工程师
 				* yuanzhaohao：http://www.yuanzhaohao.com/ 14新人
 		3. 腾讯系
@@ -185,6 +186,7 @@
 			* 小懒：http://laispace.com/ 14新人
 			* 翁天信：http://blog.dandyweng.com/ 自学党，有设计感
 			* 代码家：http://blog.daimajia.com/	擅长Android、PHP、Node.js
+			* GitHub-赵成：http://cheng.guru/ Atom 构建者之一
 		5. 综合质量较高的个人博客
 			* 支付宝-阮一峰：http://www.ruanyifeng.com/blog/
 			* 廖雪峰：http://www.liaoxuefeng.com/ 有一些不错的教程，比如 Git 和 Python
@@ -214,7 +216,7 @@
 5. 其他
 	1. Wordpress & 主机
 		* 我爱水煮鱼：http://blog.wpjam.com/
-		* 大发贱志：http://fatesinger.com/ 版式不错，干净，logo 有中国味
+		* 大发贱志：http://fatesinger.com/ 版式不错
 		* 阿里-吴钊：http://www.neoease.com/
 		
 	2. 其他
