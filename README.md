@@ -37,7 +37,7 @@
 		* [CSS-tricks](https://css-tricks.com/)
 		* [HTML5weekly](http://html5weekly.com/)
 		* [JS weekly](http://javascriptweekly.com/)
-3. 标准 / 教程 / 会议 / 社区 / 组织 / 比赛
+3. 标准 / 教程 / 会议 / 比赛 / 社区 / 组织
 	1. 标准
 		* [WHATWG](https://whatwg.org/) / [W3C](https://www.w3.org) / [html5apps-project](http://html5apps-project.eu/)
 	2. 教程
@@ -50,12 +50,17 @@
 			* [webrebuild](http://www.webrebuild.org/) / [JSConfChina](http://jsconf.cn/)
 		2. 国外
 			* [JSConf](http://jsconf.com/) / [velocityconf](http://velocityconf.com/)
-	4. 社区
+	4. 比赛
+		1. 国内
+		2. 国外
+			* [FWA(Favourite Websites Awards)](http://www.thefwa.com/)
+		
+	5. 社区
 		1. 国内
 			* [angularjs-cn](http://angularjs.cn/) / [reactChina](http://react-china.org/) / [Node.js 中国](https://cnodejs.org/) / [F2E](http://www.f2e.im/)
 		2. 国外
 			* example
-	5. 组织
+	6. 组织
 		1. 国内
 			[UED 大全](http://rensanning.iteye.com/blog/1585046)
 			1. 百度
@@ -70,7 +75,6 @@
 		2. 国外
 			* [MDN/Mozilla-Developer-Network](https://developer.mozilla.org)
 			* [w3cfools](http://www.w3fools.com/)
-	6. 比赛
 4. 个人博客
 	1. 国内
 		1. 百度系
