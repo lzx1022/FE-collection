@@ -40,11 +40,15 @@
 3. 标准 / 教程 / 会议 / 比赛 / 社区 / 组织
 	1. 标准
 		* [WHATWG](https://whatwg.org/) / [W3C](https://www.w3.org) / [html5apps-project](http://html5apps-project.eu/)
-	2. 教程
-		* 英文：http://www.w3schools.com/
-		* 中文：http://www.w3cschool.cc/
-		* 中文：http://www.w3cschool.cn/
-	
+	2. 教程	
+		* [w3schools.com](http://www.w3schools.com/) / [w3cschool.cc](http://www.w3cschool.cc/) / [w3cschool.cn](http://www.w3cschool.cn/)
+		* [tutsplus](http://tutsplus.com/)
+		* [codecademy](http://www.codecademy.co)
+		* [慕课网](http://www.imooc.com/)
+		* [1KE.CO](http://1ke.co/)
+		* [teamtreehouse](https://teamtreehouse.com/)
+		* [codeschool](https://www.codeschool.com/)
+		* [lynda](http://www.lynda.com/)
 	3. 会议
 		1. 国内
 			* [webrebuild](http://www.webrebuild.org/) / [JSConfChina](http://jsconf.cn/)
@@ -110,9 +114,12 @@
 			* 去哪儿：[doyeo(擅长CSS)](http://blog.doyoe.com/) / [司徒正美(JS框架设计)](http://www.cnblogs.com/rubylouvre/) 
 			* 美团：[潘魏增](http://panweizeng.com/?from=inf&wvr=5&loc=infblog) / [苏洋(淘宝->美团)](http://www.soulteary.com/)	/ [随机(新浪->美团)](http://random.cnblogs.com)
 			* 奇舞团：[屈屈](https://www.imququ.com/)
-			* 网易：[郑海波/栓萝卜的棒子](http://leeluolee.github.io/)
+			* 网易：[郑海波/栓萝卜的棒子](http://leeluolee.github.io/) / [听秦](http://weibo.com/unbug)
 			* Teambition：[严清](http://github.com/zensh) / [题叶](http://tiye.me) / [寸志](http://island205.com/)
-			* 其他：[CatChen1(百度->豌豆荚->Facebook)](http://chinese.catchen.me/) [CatChen2](http://cathsfz.cnblogs.com/) / [Franky](http://www.cnblogs.com/_franky/) / [sofish(支付宝-百姓网-饿了么)](http://sofi.sh/) / [贺师俊(百姓网)](http://hax.iteye.com/) / [周文彬(比较关注动画相关的web技术)](http://www.zhouwenbin.com) / [米粽粽(IBM)](http://myst729.github.io/) / [张晓菲(《锋利的jQuery》作者之一)](http://shawphy.com/) / [阿肆](http://www.ivershuo.com/) / [zrong](http://zengrong.net/) / [fancyoung](http://fancyoung.com/) / [白露飞(编译器)](http://typeof.net/) / [汤姆大叔](http://www.cnblogs.com/TomXu) / [justjavac/迷渡](http://justjavac.com/) / [豪情](http://jikey.cnblogs.com/) / [次碳酸钴](http://www.web-tinker.com/) /  [thonatos](http://www.thonatos.com/blog) / [小懒(14新人)](http://laispace.com/) / [翁天信(自学党/设计)](http://blog.dandyweng.com/) / [代码家](http://blog.daimajia.com/) / [赵成(Atom)](http://cheng.guru/) / [廖雪峰(有Git和Python教程)](http://www.liaoxuefeng.com/) / [rlog](http://rlog.cn/)
+			* 苏宁：[民工精髓](http://xufei.gitpress.org)
+			* W3C中国：[安琪](http://weibo.com/angelatw3c) / [小倩](http://weibo.com/siusinng) / [陈本峰](http://weibo.com/chenbenfeng)
+			* 注重设计的：[eisneim](http://eisneim.github.io/) / [翁天信(自学党/设计)](http://blog.dandyweng.com/)
+			* 其他：[CatChen1(百度->豌豆荚->Facebook)](http://chinese.catchen.me/) [CatChen2](http://cathsfz.cnblogs.com/) / [Franky](http://www.cnblogs.com/_franky/) / [sofish(支付宝-百姓网-饿了么)](http://sofi.sh/) / [贺师俊(百姓网)](http://hax.iteye.com/) / [周文彬(比较关注动画相关的web技术)](http://www.zhouwenbin.com) / [米粽粽(IBM)](http://myst729.github.io/) / [张晓菲(《锋利的jQuery》作者之一)](http://shawphy.com/) / [阿肆](http://www.ivershuo.com/) / [zrong](http://zengrong.net/) / [fancyoung](http://fancyoung.com/) / [白露飞(编译器)](http://typeof.net/) / [汤姆大叔](http://www.cnblogs.com/TomXu) / [justjavac/迷渡](http://justjavac.com/) / [豪情](http://jikey.cnblogs.com/) / [次碳酸钴](http://www.web-tinker.com/) /  [thonatos](http://www.thonatos.com/blog) / [小懒(14新人)](http://laispace.com/) / [代码家](http://blog.daimajia.com/) / [赵成(Atom)](http://cheng.guru/) / [廖雪峰(有Git和Python教程)](http://www.liaoxuefeng.com/) / [rlog](http://rlog.cn/)
 		5. 综合质量较高的个人博客
 			* [阮一峰(目前在支付宝)](http://www.ruanyifeng.com/blog/)
 			* [张鑫旭(腾讯ISUX上海)](http://www.zhangxinxu.com/)
@@ -137,9 +144,16 @@
 5. 其他
 	1. Wordpress & 主机
 		* [我爱水煮鱼](http://blog.wpjam.com/) / [大发贱志(版式不错)](http://fatesinger.com/) / [阿里-吴钊](http://www.neoease.com/)
-		
-	2. 其他
+	
+	2. 网页设计相关
+		* [FWA - Favourite Website Awards](http://www.thefwa.com/)
+		* [Awwwards - Website Awards - Best Web Design Trends](http://www.awwwards.com/)
+		* [Reeoo | web design inspiration and website gallery](http://reeoo.com/)
+		* [One Page Love](https://onepagelove.com/)
+		* [CSS Winner - Website Awards - CSS Award Gallery for Web Design Inspiration](http://www.csswinner.com/)
+	3. 其他
 		* [GitHub-awards(查看GH排名)](http://github-awards.com/)
+		* [codepen.io](http://codepen.io/)
 
 
 
