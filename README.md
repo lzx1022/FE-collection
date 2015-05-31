@@ -22,7 +22,7 @@
 		* 指南: [Google: guide-to-technical-development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 		* 网上学习平台: [w3schools.com](http://www.w3schools.com/) / [w3cschool.cc](http://www.w3cschool.cc/) / [w3cschool.cn](http://www.w3cschool.cn/) / [tutsplus](http://tutsplus.com/) / [codecademy](http://www.codecademy.co) / [慕课网](http://www.imooc.com/) / [1KE.CO](http://1ke.co/) / [teamtreehouse](https://teamtreehouse.com/) / [codeschool](https://www.codeschool.com/) / [lynda](http://www.lynda.com/)
 		* GitHub
-			* Node.js: [七天学会NodeJS](https://github.com/nqdeng/7-days-nodejs) / [<Node.js 包教不包会>](https://github.com/alsotang/node-lessons)
+			* Node.js: [七天学会NodeJS](https://github.com/nqdeng/7-days-nodejs) / [Node.js 包教不包会](https://github.com/alsotang/node-lessons)
 			* linux: [linux_tools](https://github.com/me115/linuxtools_rst)
 	3. 会议
 		* 国内: [webrebuild](http://www.webrebuild.org/) / [JSConfChina](http://jsconf.cn/)
@@ -92,7 +92,13 @@
 5. 其他
 	* Wordpress & 主机: [我爱水煮鱼](http://blog.wpjam.com/) / [大发贱志(版式不错)](http://fatesinger.com/) / [阿里-吴钊](http://www.neoease.com/)
 
-	* 网页设计相关: [FWA - Favourite Website Awards](http://www.thefwa.com/) / [Awwwards - Website Awards - Best Web Design Trends](http://www.awwwards.com/) / [Reeoo | web design inspiration and website gallery](http://reeoo.com/) / [One Page Love](https://onepagelove.com/) / [CSS Winner - Website Awards - CSS Award Gallery for Web Design Inspiration](http://www.csswinner.com/) / [CSS Design Awards - Website Awards &amp; Inspiration - CSS Gallery - CSSDA](http://www.cssdesignawards.com/)
+	* 网页设计相关: 
+		* [FWA - Favourite Website Awards](http://www.thefwa.com/)
+		* [Awwwards - Website Awards - Best Web Design Trends](http://www.awwwards.com/)
+		* [Reeoo | web design inspiration and website gallery](http://reeoo.com/)
+		* [One Page Love](https://onepagelove.com/)
+		* [CSS Winner - Website Awards - CSS Award Gallery for Web Design Inspiration](http://www.csswinner.com/)
+		* [CSS Design Awards - Website Awards &amp; Inspiration - CSS Gallery - CSSDA](http://www.cssdesignawards.com/)
 	* 工具: [stackshare(查看著名公司的工具栈)](http://stackshare.io/)
 	* 其他: [GitHub-awards(查看GH排名)](http://github-awards.com/) / [codepen.io](http://codepen.io/)
 
