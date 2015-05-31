@@ -12,33 +12,13 @@
 
 1. 资源集
 	1. 其他人的收藏
-		* [Luo Lei 的前端收集](https://github.com/foru17/front-end-collect) 里面的聚合类博客比较全面
-		* [小倪(TGideas)的收集](http://www.whycss.com/)
-		* [cnblogs 上的一个帖子](http://www.cnblogs.com/jingangel/archive/2012/06/16/2551535.html)
-		* [知乎: 可以通过什么途径了解前端研发的最新资讯?](http://www.zhihu.com/question/29940477/answer/46269351)
-	2. 书籍资源
-		* [it-eBook](http://it-ebooks.info/) 貌似经过授权可下载? 未确定
-		* [50 Free Books for Web Designers & Developers-2014](http://speckyboy.com/2015/01/12/free-web-design-ebooks-2014/)
+		* [Luo Lei 的前端收集](https://github.com/foru17/front-end-collect) / [小倪(TGideas)的收集](http://www.whycss.com/) / [cnblogs 上的一个帖子](http://www.cnblogs.com/jingangel/archive/2012/06/16/2551535.html) / [知乎: 可以通过什么途径了解前端研发的最新资讯?](http://www.zhihu.com/question/29940477/answer/46269351)
+	2. 书籍资源: [it-eBook](http://it-ebooks.info/) / [50 Free Books for Web Designers & Developers-2014](http://speckyboy.com/2015/01/12/free-web-design-ebooks-2014/)
 2. 聚合类博客
 	1. 国内
-		* [w3cplus](http://www.w3cplus.com/) 大漠(携程->淘宝)维护
-		* [CSS88](http://www.css88.com/) 愚人码头创办及维护
-		* [前端观察](http://www.qianduan.net/) 神飞联合创立，神飞目前是腾讯微信		设计团队
-		* [w3ctech](http://www.w3ctech.com/) 奇虎360主导
-		* [前端乱炖](http://www.html-js.com/)
-		* [w3cfuns](http://www.w3cfuns.com/)
-		* [CSS 森林](http://www.cssforest.org/)
-		* [大前端](http://www.daqianduan.com/)
+		* [w3cplus](http://www.w3cplus.com/) / [CSS88](http://www.css88.com/) / [前端观察](http://www.qianduan.net/) / [w3ctech](http://www.w3ctech.com/) / [前端乱炖](http://www.html-js.com/) / [w3cfuns](http://www.w3cfuns.com/) / [CSS 森林](http://www.cssforest.org/) / [大前端](http://www.daqianduan.com/)
 	2. 国外
-		* [Smashing Magazine](http://www.smashingmagazine.com/)
-		* [HTML5rocks](http://www.html5rocks.com/) / [HTML5rocks-中文版](http://www.html5rocks.com/zh/)
-		* [dailyjs](http://dailyjs.com/)
-		* [jsrock](http://jsrocks.org/) / [jsrock-zh-cn](http://jsrocks.org/cn/)
-		* [CSS 禅意花园](http://www.csszengarden.com/)
-		* [scotch](https://scotch.io/)
-		* [CSS-tricks](https://css-tricks.com/)
-		* [HTML5weekly](http://html5weekly.com/)
-		* [JS weekly](http://javascriptweekly.com/)
+		* [Smashing Magazine](http://www.smashingmagazine.com/) / [HTML5rocks](http://www.html5rocks.com/) / [HTML5rocks-中文版](http://www.html5rocks.com/zh/) / [dailyjs](http://dailyjs.com/) / [jsrock](http://jsrocks.org/) / [jsrock-zh-cn](http://jsrocks.org/cn/) / [CSS 禅意花园](http://www.csszengarden.com/) / [scotch](https://scotch.io/) / [CSS-tricks](https://css-tricks.com/) / [HTML5weekly](http://html5weekly.com/) / [JS weekly](http://javascriptweekly.com/)
 3. 标准 / 教程 / 会议 / 比赛 / 社区 / 组织
 	1. 标准
 		* [WHATWG](https://whatwg.org/) / [W3C](https://www.w3.org) / [html5apps-project](http://html5apps-project.eu/) / [w3cfools](http://www.w3fools.com/) / [webplatform](http://www.webplatform.org/) / [esduscuss(ECMAScript Discussion Archives)](https://esdiscuss.org/)
@@ -46,20 +26,10 @@
 		* 指南
 			* [Google: guide-to-technical-development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 		* 网上学习平台
-			* [w3schools.com](http://www.w3schools.com/) / [w3cschool.cc](http://www.w3cschool.cc/) / [w3cschool.cn](http://www.w3cschool.cn/)
-			* [tutsplus](http://tutsplus.com/)
-			* [codecademy](http://www.codecademy.co)
-			* [慕课网](http://www.imooc.com/)
-			* [1KE.CO](http://1ke.co/)
-			* [teamtreehouse](https://teamtreehouse.com/)
-			* [codeschool](https://www.codeschool.com/)
-			* [lynda](http://www.lynda.com/)
+			* [w3schools.com](http://www.w3schools.com/) / [w3cschool.cc](http://www.w3cschool.cc/) / [w3cschool.cn](http://www.w3cschool.cn/) / [tutsplus](http://tutsplus.com/) / [codecademy](http://www.codecademy.co) / [慕课网](http://www.imooc.com/) / [1KE.CO](http://1ke.co/) / [teamtreehouse](https://teamtreehouse.com/) / [codeschool](https://www.codeschool.com/) / [lynda](http://www.lynda.com/)
 		* GitHub
-			* Node.js
-				* [七天学会NodeJS](https://github.com/nqdeng/7-days-nodejs)
-				* [<Node.js 包教不包会>](https://github.com/alsotang/node-lessons)
-			* linux
-				* [linux_tools](https://github.com/me115/linuxtools_rst)
+			* Node.js: [七天学会NodeJS](https://github.com/nqdeng/7-days-nodejs) / [<Node.js 包教不包会>](https://github.com/alsotang/node-lessons)
+			* linux: [linux_tools](https://github.com/me115/linuxtools_rst)
 				
 	3. 会议
 		1. 国内
@@ -67,30 +37,19 @@
 		2. 国外
 			* [JSConf](http://jsconf.com/) / [velocityconf](http://velocityconf.com/)
 	4. 比赛
-		1. 国内
-		2. 国外
-			* [FWA(Favourite Websites Awards)](http://www.thefwa.com/)
 
 	5. 社区
-		1. 国内
-			* [angularjs-cn](http://angularjs.cn/) / [reactChina](http://react-china.org/) / [Node.js 中国](https://cnodejs.org/) / [F2E](http://www.f2e.im/)
-		2. 国外
-			* example
+		1. 国内: [angularjs-cn](http://angularjs.cn/) / [reactChina](http://react-china.org/) / [Node.js 中国](https://cnodejs.org/) / [F2E](http://www.f2e.im/)
 	6. 组织
 		1. 国内
 			[UED 大全](http://rensanning.iteye.com/blog/1585046)
-			1. 百度
-				* [EFE](http://efe.baidu.com) / [FEX](http://fex.baidu.com/) / [MWeb](http://mweb.baidu.com/)
-			2. 阿里
-				* [淘宝UED](http://ued.taobao.org/blog/) / [阿里巴巴[中国站]UED](http://www.aliued.cn/) / [阿里巴巴[国际站]UED](http://www.aliued.com/) / [蚂蚁金服-金融体验设计团队](http://alipayifed.com) / [阿里妈妈MUX](http://mux.alimama.com/)
-			3. 腾讯
-				* [ISUX](http://isux.tencent.com/) / [AlloyTeam](http://www.alloyteam.com/) / [腾讯网前端团队](http://qqfe.org/) / [TGideas(腾讯游戏设计团队)](http://tgideas.qq.com/) / [TID-财付通设计团队](http://tid.tenpay.com/)
+			1. 百度: [EFE](http://efe.baidu.com) / [FEX](http://fex.baidu.com/) / [MWeb](http://mweb.baidu.com/)
+			2. 阿里: [淘宝UED](http://ued.taobao.org/blog/) / [阿里巴巴[中国站]UED](http://www.aliued.cn/) / [阿里巴巴[国际站]UED](http://www.aliued.com/) / [蚂蚁金服-金融体验设计团队](http://alipayifed.com) / [阿里妈妈MUX](http://mux.alimama.com/)
+			3. 腾讯: [ISUX](http://isux.tencent.com/) / [AlloyTeam](http://www.alloyteam.com/) / [腾讯网前端团队](http://qqfe.org/) / [TGideas(腾讯游戏设计团队)](http://tgideas.qq.com/) / [TID-财付通设计团队](http://tid.tenpay.com/)
 				* [腾讯开源项目](http://tencentopen.github.io/)
-			4. 其他
-				* [奇虎360-奇舞团](http://www.75team.com/) / [携程UED](http://ued.ctrip.com/blog/?cat=3) / [京东GDC](http://jdc.jd.com/about) / [1号店UED](http://ued.yhd.com/blog) / [去哪儿UED](http://ued.yhd.com/blog)
+			4. 其他: [奇虎360-奇舞团](http://www.75team.com/) / [携程UED](http://ued.ctrip.com/blog/?cat=3) / [京东GDC](http://jdc.jd.com/about) / [1号店UED](http://ued.yhd.com/blog) / [去哪儿UED](http://ued.yhd.com/blog)
 		2. 国外
-			* [MDN/Mozilla-Developer-Network](https://developer.mozilla.org)
-			* [w3cfools](http://www.w3fools.com/)
+			* [MDN/Mozilla-Developer-Network](https://developer.mozilla.org) / [w3cfools](http://www.w3fools.com/)
 4. 个人博客
 	1. 国内
 		1. 百度系
@@ -134,44 +93,25 @@
 			* 注重设计的: [eisneim](http://eisneim.github.io/) / [翁天信(自学党/设计)](http://blog.dandyweng.com/)
 			* 全栈类型的: [Veda原型](http://www.nowamagic.net/) /
 			* 其他: [CatChen1(百度->豌豆荚->Facebook)](http://chinese.catchen.me/) [CatChen2](http://cathsfz.cnblogs.com/) / [Franky](http://www.cnblogs.com/_franky/) / [sofish(支付宝-百姓网-饿了么)](http://sofi.sh/) / [贺师俊(百姓网)](http://hax.iteye.com/) / [周文彬(比较关注动画相关的web技术)](http://www.zhouwenbin.com) / [米粽粽(IBM)](http://myst729.github.io/) / [张晓菲(《锋利的jQuery》作者之一)](http://shawphy.com/) / [阿肆](http://www.ivershuo.com/) / [zrong](http://zengrong.net/) / [fancyoung](http://fancyoung.com/) / [白露飞(编译器)](http://typeof.net/) / [汤姆大叔](http://www.cnblogs.com/TomXu) / [justjavac/迷渡](http://justjavac.com/) / [豪情](http://jikey.cnblogs.com/) / [次碳酸钴](http://www.web-tinker.com/) /  [thonatos](http://www.thonatos.com/blog) / [小懒(14新人)](http://laispace.com/) / [代码家](http://blog.daimajia.com/) / [赵成(Atom)](http://cheng.guru/) / [廖雪峰(有Git和Python教程)](http://www.liaoxuefeng.com/) / [rlog](http://rlog.cn/)
-		5. 综合质量较高的个人博客
-			* [阮一峰(目前在支付宝)](http://www.ruanyifeng.com/blog/)
-			* [张鑫旭(腾讯ISUX上海)](http://www.zhangxinxu.com/)
+		5. 综合质量较高的个人博客: [阮一峰(目前在支付宝)](http://www.ruanyifeng.com/blog/) / [张鑫旭(腾讯ISUX上海)](http://www.zhangxinxu.com/)
 
 	2. 国外
 		1. Google
 			* [Steve Souders](http://www.stevesouders.com/) / [robdodson](http://robdodson.me/) / [Erik Arvidsson(TC39成员)](http://erik.eae.net) / [Paul Irish](http://www.paulirish.com/) / [Addy Osmani](http://addyosmani.com/blog/)
 		2. Facebook
 			* React: [Bill Fisher](http://fisherwebdev.com/about)
-		3. 其他
-			* Dropbox: [daneden(author of animate.css)](http://daneden.me/)
-			* [FAT(Bootstrap)](http://byfat.xxx/)
-			* [Lea Verou(W3C/CSS)](http://lea.verou.me/)
-			* [Isaac Z. Schlueter(npm)](http://izs.me/)
-			* [Axel Rauschmayer](http://www.2ality.com/)
-			* [Andy Clarke](http://www.stuffandnonsense.co.uk/)
-			* [substack(Node.js)](http://substack.net/)
-			* [道格拉斯](http://www.crockford.com/)
-			* [Nicholas C.Zakas(JS高程作者)](http://www.nczonline.net/)
-			* [Tim Bray(XML之父)](http://www.tbray.org/ongoing/)
-			* [Jeffrey Zeldman](http://www.zeldman.com/)
-			* [Peter-Paul Koch](http://www.webstandards.org/about/members/ppk/)
+		3. 其他 
+			* Dropbox: [daneden(author of animate.css)](http://daneden.me/) / [FAT(Bootstrap)](http://byfat.xxx/)
+			* [Lea Verou(W3C/CSS)](http://lea.verou.me/) / [Isaac Z. Schlueter(npm)](http://izs.me/) / [Axel Rauschmayer](http://www.2ality.com/) / [Andy Clarke](http://www.stuffandnonsense.co.uk/)
+ / [substack(Node.js)](http://substack.net/) / [道格拉斯](http://www.crockford.com/) / [Nicholas C.Zakas(JS高程作者)](http://www.nczonline.net/) / [Tim Bray(XML之父)](http://www.tbray.org/ongoing/) / [Jeffrey Zeldman](http://www.zeldman.com/) / [Peter-Paul Koch](http://www.webstandards.org/about/members/ppk/)
 5. 其他
 	1. Wordpress & 主机
 		* [我爱水煮鱼](http://blog.wpjam.com/) / [大发贱志(版式不错)](http://fatesinger.com/) / [阿里-吴钊](http://www.neoease.com/)
 
 	2. 网页设计相关
-		* [FWA - Favourite Website Awards](http://www.thefwa.com/)
-		* [Awwwards - Website Awards - Best Web Design Trends](http://www.awwwards.com/)
-		* [Reeoo | web design inspiration and website gallery](http://reeoo.com/)
-		* [One Page Love](https://onepagelove.com/)
-		* [CSS Winner - Website Awards - CSS Award Gallery for Web Design Inspiration](http://www.csswinner.com/)
-		* [CSS Design Awards - Website Awards &amp; Inspiration - CSS Gallery - CSSDA](http://www.cssdesignawards.com/)
-	3. 工具
-		* [stackshare(查看著名公司的工具栈)](http://stackshare.io/)
-	4. 其他
-		* [GitHub-awards(查看GH排名)](http://github-awards.com/)
-		* [codepen.io](http://codepen.io/)
+		* [FWA - Favourite Website Awards](http://www.thefwa.com/) / [Awwwards - Website Awards - Best Web Design Trends](http://www.awwwards.com/) / [Reeoo | web design inspiration and website gallery](http://reeoo.com/) / [One Page Love](https://onepagelove.com/) / [CSS Winner - Website Awards - CSS Award Gallery for Web Design Inspiration](http://www.csswinner.com/) / [CSS Design Awards - Website Awards &amp; Inspiration - CSS Gallery - CSSDA](http://www.cssdesignawards.com/)
+	3. 工具: [stackshare(查看著名公司的工具栈)](http://stackshare.io/)
+	4. 其他: [GitHub-awards(查看GH排名)](http://github-awards.com/) / [codepen.io](http://codepen.io/)
 
 
 
