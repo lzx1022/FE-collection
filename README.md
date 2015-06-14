@@ -1,9 +1,15 @@
 #个人收集的前端博客
 
 ##前言
-整理一些自己之前收藏的前端博客，主要以个人博客为主。这类收集网络上有不少，有一些做得颇为完整的，比如 GitHub 上 [Luo Lei 的前端收集](https://github.com/foru17/front-end-collect)。本可以直接 push 进这类项目，不过主要是想以自己的方式去组织这类资源，所以开了这个项目 ^ ^。
+整理一些自己之前收藏的前端博客，主要以个人博客为主。这类收集网络上有不少，有一些做得颇为完整的，比如 GitHub 上 [Luo Lei 的前端收集](https://github.com/foru17/front-end-collect)。本可以直接 push 进这类项目，但出于以下原因：
 
-一些说明:
+* 前端发展日新月异，给出`“推荐指数”“活跃指数”`这样的数据个人认为其实意义不大，因为同样的一个聚合类博客/开发者博客过一段时间后都有可能有较大变化；
+* `GitHub`里`Markdown`的`table`行高太大，像博客集这类数量比较密集的信息很容易把整个页面做得很长，所以同时考虑到第一点原因，以下网址的组织形式仅以`list`的方式给出链接地址，如有必要，在每个博客名后面用`()`在里面添加简单的关键词（仅根据自己的理解觉得最能体现作者的关键词），比如：[司徒正美(Avalon.js作者)](http://www.cnblogs.com/rubylouvre/)；
+* 这个收集主要还是服务于我自己，所以可能会夹带一些些私人所需的信息并不一定和前端直接相关的信息，比如最下面`5. 其他`里面有`网页设计相关`这样的分类。
+
+所以开了这个项目 ^ ^。
+
+其他一些说明:
 
 * 有一些前辈的博客虽然很少/不更新了，但是有些旧文也是很值得一看的；
 
@@ -69,7 +75,7 @@
 			* 其他: [hzlzh](http://hzlzh.io/) / [彪叔Twinsen(WebRebuild发起人)](http://www.twinsenliang.net/) / [小黑(以CSS为主)](http://xiaoho.com/) / [Willerce](http://willerce.com/) / [waterwu](http://blog.waterwu.me/) / [黎博](http://www.mxgw.info/) / [苏润梓(14新人)](http://www.surunzi.com/) / [轩枫阁(14新人)](http://www.xuanfengge.com/)
 		4. 其他
 			* 豆瓣: [张克军](http://hikejun.com/) / [Miko Gao/糖拌西红柿](http://gaowhen.com/)
-			* 去哪儿: [doyeo(擅长CSS)](http://blog.doyoe.com/) / [司徒正美(JS框架设计)](http://www.cnblogs.com/rubylouvre/)
+			* 去哪儿: [doyeo(擅长CSS)](http://blog.doyoe.com/) / [司徒正美(Avalon.js作者)](http://www.cnblogs.com/rubylouvre/)
 			* 美团: [潘魏增](http://panweizeng.com/?from=inf&wvr=5&loc=infblog) / [苏洋(淘宝->美团)](http://www.soulteary.com/)	/ [随机(新浪->美团)](http://random.cnblogs.com)
 			* 奇舞团: [屈屈](https://www.imququ.com/)
 			* 网易: [郑海波/栓萝卜的棒子](http://leeluolee.github.io/) / [听秦](http://weibo.com/unbug)
@@ -100,7 +106,7 @@
 		* [One Page Love](https://onepagelove.com/)
 		* [CSS Winner - Website Awards - CSS Award Gallery for Web Design Inspiration](http://www.csswinner.com/)
 		* [CSS Design Awards - Website Awards &amp; Inspiration - CSS Gallery - CSSDA](http://www.cssdesignawards.com/)
-	* Creative Tech/desigh: [Aaron Kobin](http://www.aaronkoblin.com/) / [Wilson Miner(Django四位原作者之一/apple.com设计师)](http://wilsonminer.com/) / [John Maeda(前RISD校长)](http://en.wikipedia.org/wiki/John_Maeda)
+	* Creative Tech/desigh: [Aaron Kobin](http://www.aaronkoblin.com/) / [Wilson Miner(Django四位原作者之一/apple.com设计师)](http://wilsonminer.com/) / [John Maeda(前RISD校长)](http://en.wikipedia.org/wiki/John_Maeda) / [尤雨溪(Vue.js作者/前Google Creative Lab)](http://evanyou.me/)
 	* 安全: [云舒(阿里安全专家)](http://www.icylife.net/) / [吴翰清/道哥的黑板报(前阿里安全)](http://www1.taosay.net/)
 	* Freelance: [freelancer.com](https://www.freelancer.com) / [elance.com](https://www.elance.com/) / [猪八戒网](http://www.zhubajie.com/)
 	* 工具: [stackshare(查看著名公司的工具栈)](http://stackshare.io/)
