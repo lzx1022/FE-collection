@@ -1,9 +1,9 @@
-#个人收集的前端博客
+#前端博客收集
 
 ##前言
-整理一些自己之前收藏的前端博客，主要以个人博客为主。这类收集网络上有不少，有一些做得颇为完整的，比如 GitHub 上 [Luo Lei 的前端收集](https://github.com/foru17/front-end-collect)。本可以直接 push 进这类项目，但是：
+整理一些自己之前收藏的前端博客，主要以个人博客为主。这类收集网络上有不少，有一些做得颇为完整的，比如 GitHub 上 [Luo Lei 的前端收集](https://github.com/foru17/front-end-collect)。本可以试着提 request 帮助完善这类项目，但是：
 
-* 前端发展日新月异，给出`“推荐指数”“活跃指数”`这样的数据个人认为其实意义不大，因为同样的一个聚合类博客/开发者博客过一段时间后都有可能有较大变化，而且一个博客/网站价值大不大我想稍有经验的开发者一看便知；
+* 目前看到的一些资源集的组织形式和自己的想法出入较大，比如给出`“推荐指数”“活跃指数”`这样的数据个人认为意义并不大，前端发展日新月异，同样的一个聚合类/开发者博客过一段时间后都有可能有较大变化，而且一个博客/网站价值大不大我想稍有经验的开发者一看便知；
 * `GitHub`里`Markdown`的`table`行高太大，像博客集这类数量比较密集的信息很容易把整个页面做得很长，所以同时考虑到第一点原因，以下网址的组织形式仅以`list`的方式给出链接地址，如有必要，在每个博客名后面用`()`在里面添加简单的关键词（仅根据自己的理解觉得最能体现作者的关键词），比如：[司徒正美(Avalon.js作者)](http://www.cnblogs.com/rubylouvre/)；
 
 出于以上原因，开了这个项目 ^ ^。
@@ -11,7 +11,8 @@
 其他一些说明：
 
 * 有一些前辈的博客虽然很少/不更新了，但是有些旧文也是很值得一看的；
-* 这个收集主要还是服务于我自己，所以可能会夹带一些些私人所需的信息并不一定和前端直接相关的信息，比如最下面`5. 其他`里面有`网页设计相关`这样的分类；
+* 虽然这里的网站并不全是博客，但是由于以聚合/个人前端博客为主，所以取名“前端博客收集”；
+* 这个收集主要还是服务于我自己，所以可能会夹带一些些个人所需的但并不一定和前端直接相关的网站，比如最下面`5. 其他`里面有`网页设计相关`这样的分类；
 * 收集博客的时候个人还是以`大致靠谱`的前提下以`全`作为目标，因为虽然前端工程师大多有自己的网站/博客，但是却不一定都喜欢写博客，举个例子，如果某XX是BAT（或曾经在BAT或其他较为知名的IT公司任职）的前端工程师，有自己的博客，但是里面的文章星星点点，每篇的篇幅也不长，但多少提到了一些有价值的信息，那我就会加进来。
 
 ##目录
@@ -22,7 +23,7 @@
 2. 聚合类博客
 	* 国内: [w3cplus](http://www.w3cplus.com/) / [CSS88](http://www.css88.com/) / [前端观察](http://www.qianduan.net/) / [w3ctech](http://www.w3ctech.com/) / [前端乱炖](http://www.html-js.com/) / [w3cfuns](http://www.w3cfuns.com/) / [CSS 森林](http://www.cssforest.org/) / [大前端](http://www.daqianduan.com/)
 	* 国外: [Smashing Magazine](http://www.smashingmagazine.com/) / [HTML5rocks](http://www.html5rocks.com/) / [HTML5rocks-中文版](http://www.html5rocks.com/zh/) / [dailyjs](http://dailyjs.com/) / [jsrock](http://jsrocks.org/) / [jsrock-zh-cn](http://jsrocks.org/cn/) / [CSS 禅意花园](http://www.csszengarden.com/) / [scotch](https://scotch.io/) / [CSS-tricks](https://css-tricks.com/) / [HTML5weekly](http://html5weekly.com/) / [JS weekly](http://javascriptweekly.com/)
-3. 标准 / 教程 / 会议 / 比赛 / 社区 / 组织
+3. 标准 / 教程 / 会议 / 社区 / 组织
 	1. 标准: [WHATWG](https://whatwg.org/) / [W3C](https://www.w3.org) / [html5apps-project](http://html5apps-project.eu/) / [w3cfools](http://www.w3fools.com/) / [webplatform](http://www.webplatform.org/) / [esduscuss(ECMAScript Discussion Archives)](https://esdiscuss.org/) / [scriptol.com](http://www.scriptol.com/)
 	2. 教程
 		* 指南: [Google: guide-to-technical-development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
@@ -31,14 +32,13 @@
 			* Node.js: [七天学会NodeJS](https://github.com/nqdeng/7-days-nodejs) / [Node.js 包教不包会](https://github.com/alsotang/node-lessons)
 			* linux: [linux_tools](https://github.com/me115/linuxtools_rst)
 			* [computer-science-in-javascript](https://github.com/nzakas/computer-science-in-javascript)
-		* 其他: [Sublime Text 全程指南](http://zh.lucida.me/blog/sublime-text-complete-guide/) / [正则表达式30分钟入门教程](http://deerchao.net/tutorials/regex/regex.htm)
+		* 其他: [Sublime Text 全程指南](http://zh.lucida.me/blog/sublime-text-complete-guide/) / [正则表达式30分钟入门教程](http://deerchao.net/tutorials/regex/regex.htm) / [stackoverflow(答疑解惑首选)](http://stackoverflow.com/)
 	3. 会议
 		* 国内: [webrebuild](http://www.webrebuild.org/) / [JSConfChina](http://jsconf.cn/)
 		* 国外: [JSConf](http://jsconf.com/) / [velocityconf](http://velocityconf.com/)
-	4. 比赛
-	5. 社区
+	4. 社区
 		* 国内: [angularjs-cn](http://angularjs.cn/) / [reactChina](http://react-china.org/) / [Node.js 中国](https://cnodejs.org/) / [F2E](http://www.f2e.im/) / [cn.iojs.org](http://cn.iojs.org/)
-	6. 组织
+	5. 组织
 		* 国内
 			[UED 大全](http://rensanning.iteye.com/blog/1585046)
 			* 百度: [EFE](http://efe.baidu.com) / [FEX](http://fex.baidu.com/) / [MWeb](http://mweb.baidu.com/)
@@ -75,12 +75,13 @@
 			* TGideas: [小倪](http://www.smallni.com/about/)
 			* 其他: [hzlzh](http://hzlzh.io/) / [彪叔Twinsen(WebRebuild发起人)](http://www.twinsenliang.net/) / [小黑(以CSS为主)](http://xiaoho.com/) / [Willerce](http://willerce.com/) / [waterwu](http://blog.waterwu.me/) / [黎博](http://www.mxgw.info/) / [苏润梓(14新人)](http://www.surunzi.com/) / [轩枫阁(14新人)](http://www.xuanfengge.com/)
 		4. 其他
+			* [D2-2014 报名表申请](https://github.com/soulteary/Get-D2-2014-Ticket/tree/master/tickets)
 			* 豆瓣: [张克军](http://hikejun.com/) / [Miko Gao/糖拌西红柿](http://gaowhen.com/)
 			* 去哪儿: [doyeo(擅长CSS)](http://blog.doyoe.com/) / [司徒正美(Avalon.js作者)](http://www.cnblogs.com/rubylouvre/)
 			* 美团: [潘魏增](http://panweizeng.com/?from=inf&wvr=5&loc=infblog) / [苏洋(淘宝->美团)](http://www.soulteary.com/)	/ [随机(新浪->美团)](http://random.cnblogs.com)
 			* 奇舞团: [屈屈](https://www.imququ.com/)
 			* 网易: [郑海波/栓萝卜的棒子](http://leeluolee.github.io/) / [听秦](http://weibo.com/unbug)
-			* Teambition: [严清](http://github.com/zensh) / [题叶](http://tiye.me) / [寸志](http://island205.com/)
+			* Teambition: [严清](http://github.com/zensh) / [题叶](http://tiye.me) / [寸志](http://island205.com/) / [舒乐熊](http://sunebear.com/about)
 			* 苏宁: [民工精髓](http://xufei.gitpress.org)
 			* W3C中国: [安琪](http://weibo.com/angelatw3c) / [小倩](http://weibo.com/siusinng) / [陈本峰](http://weibo.com/chenbenfeng)
 			* 注重设计的: [eisneim](http://eisneim.github.io/) / [翁天信(自学党/设计)](http://blog.dandyweng.com/)
@@ -93,7 +94,7 @@
 			* [Steve Souders](http://www.stevesouders.com/) / [robdodson](http://robdodson.me/) / [Erik Arvidsson(TC39成员)](http://erik.eae.net) / [Paul Irish](http://www.paulirish.com/) / [Addy Osmani](http://addyosmani.com/blog/)
 		* Facebook
 			* React: [Bill Fisher](http://fisherwebdev.com/about)
-		* 其他 
+		* 其他 		
 			* Dropbox: [daneden(author of animate.css)](http://daneden.me/) / [FAT(Bootstrap)](http://byfat.xxx/)
 			* [Lea Verou(W3C/CSS)](http://lea.verou.me/) / [Isaac Z. Schlueter(npm)](http://izs.me/) / [Axel Rauschmayer](http://www.2ality.com/) / [Andy Clarke](http://www.stuffandnonsense.co.uk/)
  / [substack(Node.js)](http://substack.net/) / [道格拉斯](http://www.crockford.com/) / [Nicholas C.Zakas(JS高程作者)](http://www.nczonline.net/) / [Tim Bray(XML之父)](http://www.tbray.org/ongoing/) / [Jeffrey Zeldman](http://www.zeldman.com/) / [Peter-Paul Koch](http://www.webstandards.org/about/members/ppk/) / [Zoli Kahan(未成年/Node.js)](https://github.com/Zolmeister)-[Clay.io(HTML5Game)](https://clay.io/) / 
@@ -107,7 +108,7 @@
 		* [One Page Love](https://onepagelove.com/)
 		* [CSS Winner - Website Awards - CSS Award Gallery for Web Design Inspiration](http://www.csswinner.com/)
 		* [CSS Design Awards - Website Awards &amp; Inspiration - CSS Gallery - CSSDA](http://www.cssdesignawards.com/)
-	* Creative Tech/desigh: [Aaron Kobin](http://www.aaronkoblin.com/) / [Wilson Miner(Django四位原作者之一/apple.com设计师)](http://wilsonminer.com/) / [John Maeda(前RISD校长)](http://en.wikipedia.org/wiki/John_Maeda) / [尤雨溪(Vue.js作者/前Google Creative Lab)](http://evanyou.me/)
+	* Creative Tech/desigh: [Aaron Kobin](http://www.aaronkoblin.com/) / [Wilson Miner(Django四位原作者之一/前apple.com设计师)](http://wilsonminer.com/) / [John Maeda(前RISD校长)](http://en.wikipedia.org/wiki/John_Maeda) / [尤雨溪(Vue.js作者/前Google Creative Lab)](http://evanyou.me/)
 	* 安全: [云舒(阿里安全专家)](http://www.icylife.net/) / [吴翰清/道哥的黑板报(前阿里安全)](http://www1.taosay.net/)
 	* Freelance: [freelancer.com](https://www.freelancer.com) / [elance.com](https://www.elance.com/) / [猪八戒网](http://www.zhubajie.com/)
 	* 工具: [stackshare(查看著名公司的工具栈)](http://stackshare.io/)
