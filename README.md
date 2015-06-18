@@ -1,24 +1,24 @@
-#前端博客收集
+#前端资源收集
 
 ##前言
-整理一些自己之前收藏的前端博客，主要以个人博客为主。这类收集网络上有不少，有一些做得颇为完整的，比如 GitHub 上 [Luo Lei 的前端收集](https://github.com/foru17/front-end-collect)。本可以试着提 request 帮助完善这类项目，但是：
+整理一些自己收集的前端资源，持续更新，目前主要以博客为主。博客类的收集网络上有不少，有一些做得颇为完整的，比如 GitHub 上 [Luo Lei 的前端收集](https://github.com/foru17/front-end-collect)。本可以试着提 request 帮助完善这类项目，但是：
 
-* 目前看到的一些资源集的组织形式和自己的想法出入较大，比如给出`“推荐指数”“活跃指数”`这样的数据个人认为意义并不大，前端发展日新月异，同样的一个聚合类/开发者博客过一段时间后都有可能有较大变化，而且一个博客/网站价值大不大我想稍有经验的开发者一看便知；
+* 目前看到的一些资源集的组织形式和自己的想法有出入，比如给出`“推荐指数”“活跃指数”`这样的数据个人认为意义并不大，前端发展日新月异，同样的一个聚合类/开发者博客过一段时间后都有可能有较大变化，而且一个博客/网站价值大不大我想稍有经验的开发者一看便知；
 * `GitHub`里`Markdown`的`table`行高太大，像博客集这类数量比较密集的信息很容易把整个页面做得很长，所以同时考虑到第一点原因，以下网址的组织形式仅以`list`的方式给出链接地址，如有必要，在每个博客名后面用`()`在里面添加简单的关键词（仅根据自己的理解觉得最能体现作者的关键词），比如：[司徒正美(Avalon.js作者)](http://www.cnblogs.com/rubylouvre/)；
+* 并不打算局限于博客集，还有其他不少资源也一并收集在一起。
 
 出于以上原因，开了这个项目 ^ ^。
 
 其他一些说明：
 
 * 有一些前辈的博客虽然很少/不更新了，但是有些旧文也是很值得一看的；
-* 虽然这里的网站并不全是博客，但是总的来说还是以聚合/个人前端博客为主，所以取名“前端博客收集”；
 * 这个收集主要还是服务于我自己，所以可能会夹带一些些个人所需的但并不一定和前端直接相关的网站，比如最下面`5. 其他`里面有`网页设计相关`这样的分类；
 * 收集博客的时候个人还是以`大致靠谱`的前提下以`全`作为目标，因为虽然前端工程师大多有自己的网站/博客，但是却不一定都喜欢写博客，举个例子，如果某XX是BAT（或曾经在BAT或其他较为知名的IT公司任职）的前端工程师，有自己的博客，但是里面的文章星星点点，每篇的篇幅也不长，但多少提到了一些有价值的信息，那我就会加进来。
 
 ##目录
 
 1. 资源集
-	* 其他人的收藏: [Luo Lei 的前端收集](https://github.com/foru17/front-end-collect) / [小倪(TGideas)的收集](http://www.whycss.com/) / [cnblogs 上的一个帖子](http://www.cnblogs.com/jingangel/archive/2012/06/16/2551535.html) / [知乎: 可以通过什么途径了解前端研发的最新资讯?](http://www.zhihu.com/question/29940477/answer/46269351) / [大额的前端收集](http://www.cnblogs.com/skylar/p/front-end-resource-javascript.html)
+	* 其他人的收藏: [前端技能汇总](https://github.com/JacksonTian/fks) / [Luo Lei 的前端收集](https://github.com/foru17/front-end-collect) / [小倪(TGideas)的收集](http://www.whycss.com/) / [cnblogs 上的一个帖子](http://www.cnblogs.com/jingangel/archive/2012/06/16/2551535.html) / [知乎: 可以通过什么途径了解前端研发的最新资讯?](http://www.zhihu.com/question/29940477/answer/46269351) / [大额的前端收集](http://www.cnblogs.com/skylar/p/front-end-resource-javascript.html)
 	* 书籍资源: [it-eBook](http://it-ebooks.info/) / [50 Free Books for Web Designers & Developers-2014](http://speckyboy.com/2015/01/12/free-web-design-ebooks-2014/)
 2. 聚合类博客
 	* 国内: [w3cplus](http://www.w3cplus.com/) / [CSS88](http://www.css88.com/) / [前端观察](http://www.qianduan.net/) / [w3ctech](http://www.w3ctech.com/) / [前端乱炖](http://www.html-js.com/) / [w3cfuns](http://www.w3cfuns.com/) / [CSS 森林](http://www.cssforest.org/) / [大前端](http://www.daqianduan.com/)
@@ -32,7 +32,7 @@
 			* Node.js: [七天学会NodeJS](https://github.com/nqdeng/7-days-nodejs) / [Node.js 包教不包会](https://github.com/alsotang/node-lessons)
 			* linux: [linux_tools](https://github.com/me115/linuxtools_rst)
 			* [computer-science-in-javascript](https://github.com/nzakas/computer-science-in-javascript)
-		* 其他: [Sublime Text 全程指南](http://zh.lucida.me/blog/sublime-text-complete-guide/) / [正则表达式30分钟入门教程](http://deerchao.net/tutorials/regex/regex.htm) / [stackoverflow(答疑解惑首选)](http://stackoverflow.com/)
+		* 其他: [Sublime Text 全程指南](http://zh.lucida.me/blog/sublime-text-complete-guide/) / [正则表达式30分钟入门教程](http://deerchao.net/tutorials/regex/regex.htm) / [stackoverflow(答疑解惑首选)](http://stackoverflow.com/) / [知乎: 深入学习 Google Analytics 有什么教程推荐?](http://www.zhihu.com/question/19599402) / [ECMAScript6 入门教程 by 阮一峰](http://es6.ruanyifeng.com/)
 	3. 会议
 		* 国内: [webrebuild](http://www.webrebuild.org/) / [JSConfChina](http://jsconf.cn/)
 		* 国外: [JSConf](http://jsconf.com/) / [velocityconf](http://velocityconf.com/)
@@ -110,6 +110,7 @@
 		* [CSS Design Awards - Website Awards &amp; Inspiration - CSS Gallery - CSSDA](http://www.cssdesignawards.com/)
 	* Creative Tech/desigh: [Aaron Kobin](http://www.aaronkoblin.com/) / [Wilson Miner(Django四位原作者之一/前apple.com设计师)](http://wilsonminer.com/) / [John Maeda(前RISD校长)](http://en.wikipedia.org/wiki/John_Maeda) / [尤雨溪(Vue.js作者/前Google Creative Lab)](http://evanyou.me/)
 	* 安全: [云舒(阿里安全专家)](http://www.icylife.net/) / [吴翰清/道哥的黑板报(前阿里安全)](http://www1.taosay.net/)
+	* 数据分析: [纪杨(Google Analytics/Piwik)](http://jiyang.me/)
 	* Freelance: [freelancer.com](https://www.freelancer.com) / [elance.com](https://www.elance.com/) / [猪八戒网](http://www.zhubajie.com/)
 	* 工具: [stackshare(查看著名公司的工具栈)](http://stackshare.io/)
 	* 其他: [GitHub-awards(查看GH排名)](http://github-awards.com/) / [codepen.io](http://codepen.io/)
