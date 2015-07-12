@@ -14,6 +14,5 @@
 - 数据分析: [纪杨(Google Analytics/Piwik)](http://jiyang.me/)
 - 数据可视化: [manovich](http://manovich.net/)
 - 安全: [云舒(阿里安全专家)](http://www.icylife.net/) / [吴翰清/道哥的黑板报(前阿里安全)](http://www1.taosay.net/)
-
 - Freelance: [freelancer.com](https://www.freelancer.com) / [elance.com](https://www.elance.com/) / [猪八戒网](http://www.zhubajie.com/)
 
