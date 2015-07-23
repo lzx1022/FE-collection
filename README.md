@@ -3,9 +3,9 @@
 
 #索引
 - [资源集](###资源集)
-- [前端博客](collection-of-front-end-blogs.md)
-- [前端教程和工具](collection-of-tutorial-and-tool.md)
-- [设计、产品经理、数据分析等](collection-of-design-and-others.md)
+- [前端博客](collection-of-front-end-blogs/README.md)
+- [前端教程和工具](collection-of-tutorial-and-tool/README.md)
+- [设计、产品经理、数据分析等](collection-of-design-and-others/README.md)
 
 
 ###资源集:
