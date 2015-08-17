@@ -1,4 +1,4 @@
-#前端收集-前端博客
+# 前端收集-前端博客
 
 - 标准 / 会议 / 社区 / 组织
     - 标准:
@@ -79,7 +79,7 @@
     - Creative Tech/desigh:
         - [Aaron Kobin](http://www.aaronkoblin.com/) / [Wilson Miner(Django四位原作者之一/前apple.com设计师)](http://wilsonminer.com/) / [John Maeda(前RISD校长)](http://en.wikipedia.org/wiki/John_Maeda) / [_尤雨溪(Vue.js作者/前Google Creative Lab)_](http://evanyou.me/) / [Robby Leonardi(interactive resume)](http://www.rleonardi.com/)
 
-#后记
+# 后记
 这个清单目前主要以博客为主。博客类的收集网络上有不少，有一些做得颇为完整的，比如 GitHub 上 [Luo Lei 的前端收集](https://github.com/foru17/front-end-collect)。本可以试着帮助完善这类已有的项目，但是：
 
 - 目前看到的一些资源集的组织形式和自己的想法有出入，比如给出`推荐指数` `活跃指数`这样的数据个人认为意义并不大，前端发展日新月异，同样的一个聚合类/开发者博客过一段时间后都有可能有较大变化，而且一个博客/网站价值大不大我想稍有经验的开发者一看便知。
