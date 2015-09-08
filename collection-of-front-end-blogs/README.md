@@ -72,7 +72,7 @@
         - 其他
             - Dropbox: [daneden(author of animate.css)](http://daneden.me/) / [FAT(Bootstrap)](http://byfat.xxx/)
             - [Lea Verou(W3C/CSS)](http://lea.verou.me/) / [Isaac Z. Schlueter(npm)](http://izs.me/) / [Axel Rauschmayer](http://www.2ality.com/) / [Andy Clarke](http://www.stuffandnonsense.co.uk/)
- / [substack(Node.js)](http://substack.net/) / [道格拉斯](http://www.crockford.com/) / [Nicholas C.Zakas(JS高程作者)](http://www.nczonline.net/) / [Tim Bray(XML之父)](http://www.tbray.org/ongoing/) / [Jeffrey Zeldman](http://www.zeldman.com/) / [Peter-Paul Koch](http://www.webstandards.org/about/members/ppk/) / [Zoli Kahan(未成年/Node.js)](https://github.com/Zolmeister)-[Clay.io(HTML5Game)](https://clay.io/) / [Henry Zhu(Data Visualization/game)](http://henryzoo.com/)
+ / [substack(Node.js)](http://substack.net/) / [道格拉斯](http://www.crockford.com/) / [Nicholas C.Zakas(JS高程作者)](http://www.nczonline.net/) / [Tim Bray(XML之父)](http://www.tbray.org/ongoing/) / [Jeffrey Zeldman](http://www.zeldman.com/) / [Peter-Paul Koch](http://www.webstandards.org/about/members/ppk/) / [Zoli Kahan(未成年/Node.js)](https://github.com/Zolmeister)-[Clay.io(HTML5Game)](https://clay.io/) / [Henry Zhu(Data Visualization/game)](http://henryzoo.com/) / [子回(中国人 / Yelp)](http://blog.leapoahead.com/)
 - 其他
     - Wordpress & 主机:
         - [我爱水煮鱼](http://blog.wpjam.com/) / [大发贱志(版式不错)](http://fatesinger.com/) / [阿里-吴钊](http://www.neoease.com/)
