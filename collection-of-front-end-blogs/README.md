@@ -45,7 +45,7 @@
                 - 神马搜索: [hacke2(14新人)](http://www.hacke2.cn/)
                 - 航旅无线: [抜赤](http://jayli.github.io/) [GitHub issue里的 blog](https://github.com/jayli/jayli.github.com/issues) / [linkgod(14新人)](http://www.linkgod.net/)
                 - 数据平台: [Alsotang(Node.js)](http://fxck.it)
-                - 其他: [wileam](http://wileam.com/) / [闲心博客](http://sentsin.com/) / [freestyle](http://freestyle21.cn/about/) / [吴钊](http://www.neoease.com/) / [色拉油啊油](http://www.cnblogs.com/dolphinX/) / [yuanzhaohao(14新人)](http://www.yuanzhaohao.com/) / [徐媛(妹纸)](http://xuyuan923.github.io/) / [Hugo](http://www.ghugo.com/) / [杨森](http://undefinedblog.com/)
+                - 其他: [wileam](http://wileam.com/) / [闲心博客](http://sentsin.com/) / [freestyle](http://freestyle21.cn/about/) / [吴钊](http://www.neoease.com/) / [色拉油啊油](http://www.cnblogs.com/dolphinX/) / [yuanzhaohao(14新人)](http://www.yuanzhaohao.com/) / [徐媛(妹纸/奉小雨)](http://xuyuan923.github.io/) / [Hugo](http://www.ghugo.com/) / [杨森](http://undefinedblog.com/)
         - 腾讯系
             - ISUX: [_张鑫旭(文章质量很高)_](http://www.zhangxinxu.com/) / [米随随](http://s5s5.me/) / [余果](http://yuguo.us/)
             - 微信: [大猫](http://bigc.at/) / [黄玄(前阿里航旅无线实习)](http://huangxuan.me/)

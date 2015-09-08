@@ -7,6 +7,8 @@
         - [w3schools.com](http://www.w3schools.com/) / [w3cschool.cc](http://www.w3cschool.cc/) / [w3cschool.cn](http://www.w3cschool.cn/) / [tutsplus](http://tutsplus.com/) / [codecademy](http://www.codecademy.co) / [慕课网](http://www.imooc.com/)-[慕课网学习计划-前端工程师](http://www.imooc.com/course/programdetail/pid/32?from=itblog) / [1KE.CO](http://1ke.co/) / [teamtreehouse](https://teamtreehouse.com/) / [codeschool](https://www.codeschool.com/) / [lynda](http://www.lynda.com/) / [GitHub-百度 IFE 前端学院(强烈推荐)](https://github.com/baidu-ife/ife)
     - JS:
         - [(译)如何正确学习 JavaScript](http://www.crimx.com/2014/05/15/how-to-learn-javascript-properly/) / [ECMAScript6 入门教程 by 阮一峰](http://es6.ruanyifeng.com/) / [JavaScript 标准参考教程(含bower/grunt等工具的介绍) by 阮一峰](https://github.com/ruanyf/jstutorial) / [JavaScript 全栈教程 by 廖雪峰](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000) / [GitHub-Awesome_Javascript](https://github.com/wwsun/awesome-javascript)
+    - 框架:
+        - [Angular1.0学习笔记](http://checkcheckzz.gitbooks.io/angularjs-learning-notes)
     - Node.js:
         - [GitHub-七天学会NodeJS](https://github.com/nqdeng/7-days-nodejs) / [GitHub-Node.js 包教不包会](https://github.com/alsotang/node-lessons) /  [从0开始学习Node.js](http://blog.fens.me/series-nodejs/)
     - 计算机基础:
@@ -18,6 +20,9 @@
 - 书籍资源:
     - [it-eBook](http://it-ebooks.info/) / [50 Free Books for Web Designers & Developers-2014](http://speckyboy.com/2015/01/12/free-web-design-ebooks-2014/) / [Web前端开发推荐阅读书籍及下载-轩枫阁](http://www.xuanfengge.com/fe-books.html)
 - 工具:
-    - [stackshare(查看著名公司的工具栈)](http://stackshare.io/) / [caniuse.com(web特性兼容速查)](http://caniuse.com/) / [ECMAScript浏览器实现速查表](http://kangax.github.io/compat-table/es5/) / [codepen.io(在线代码工具)](http://codepen.io/) / [jsfiddle(在线代码工具)](http://jsfiddle.net/) / [代码检测: jshint](http://jshint.com/)
+    - [stackshare(查看著名公司的工具栈)](http://stackshare.io/) / [caniuse.com(web特性兼容速查)](http://caniuse.com/) / [ECMAScript浏览器实现速查表](http://kangax.github.io/compat-table/es5/) / [codepen.io(在线代码工具)](http://codepen.io/) / [jsfiddle(在线代码工具)](http://jsfiddle.net/) / [jsbin(在线代码工具)](https://jsbin.com) / [代码检测: jshint](http://jshint.com/)
 - 其他:
     - [GitHub-awards(查看 GitHub 排名)](http://github-awards.com/)
+- 按专题收藏
+    - 移动端
+        - [hammer.js(移动端手势库)](http://hammerjs.github.io/) / [swiper.js](http://www.idangero.us/swiper/) / 
