@@ -16,7 +16,7 @@
         - [w3cplus](http://www.w3cplus.com/) / [CSS88](http://www.css88.com/) / [前端观察](http://www.qianduan.net/) / [w3ctech](http://www.w3ctech.com/) / [前端乱炖](http://www.html-js.com/) / [w3cfuns](http://www.w3cfuns.com/) / [CSS 森林](http://www.cssforest.org/) / [大前端](http://www.daqianduan.com/)
     - 国外:
         - [Smashing Magazine](http://www.smashingmagazine.com/) / [HTML5rocks](http://www.html5rocks.com/) / [HTML5rocks-中文版](http://www.html5rocks.com/zh/) / [dailyjs](http://dailyjs.com/) / [jsrock](http://jsrocks.org/) / [jsrock-zh-cn](http://jsrocks.org/cn/) / [CSS 禅意花园](http://www.csszengarden.com/) / [scotch](https://scotch.io/) / [CSS-tricks](https://css-tricks.com/) / [HTML5weekly](http://html5weekly.com/) / [JS weekly](http://javascriptweekly.com/)
-- UED [UED 大全](http://rensanning.iteye.com/blog/1585046)
+- 前端团队 [UED 大全](http://rensanning.iteye.com/blog/1585046)
     - 百度: [EFE](http://efe.baidu.com) / [FEX](http://fex.baidu.com/) / [MWeb](http://mweb.baidu.com/)
     - 阿里: [淘宝UED](http://ued.taobao.org/blog/) / [阿里巴巴[中国站]UED](http://www.aliued.cn/) / [阿里巴巴[国际站]UED](http://www.aliued.com/) / [蚂蚁金服-金融体验设计团队](http://alipayifed.com) / [阿里妈妈MUX](http://mux.alimama.com/)
     - 腾讯: [ISUX](http://isux.tencent.com/) / [AlloyTeam](http://www.alloyteam.com/) / [腾讯网前端团队](http://qqfe.org/) / [TGideas(腾讯游戏设计团队)](http://tgideas.qq.com/) / [TID-财付通设计团队](http://tid.tenpay.com/)
