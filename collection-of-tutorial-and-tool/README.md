@@ -17,9 +17,9 @@
         - [GitHub-linux_tools](https://github.com/me115/linuxtools_rst) / [GitHub-the_art_of_command_line](https://github.com/jlevy/the-art-of-command-line) / [网易云课堂-linxu 入门基础](http://study.163.com/course/courseMain.htm?courseId=232007) / [GitHub-GitHub 使用秘籍](https://github.com/tiimgreen/github-cheat-sheet) / [Git Magic(勾三股四推荐)](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/) / [GitHub-Learning Markdown](https://github.com/LearnShare/Learning-Markdown) / [Sublime Text 全程指南](http://zh.lucida.me/blog/sublime-text-complete-guide/) / [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) / [Chrome 开发者工具不完全指南](http://www.92fenxiang.com/61.html)
     - 编码规范: [GitHub-百度_EFE_前端代码规范](https://github.com/ecomfe/spec)
         - HTML
-            - [necolas_idiomatic-html](https://github.com/necolas/idiomatic-html) / [HTML/CSS 编码规范 by @mdo](http://codeguide.bootcss.com/)
+            - [HTML/CSS 编码规范 by @mdo](http://codeguide.bootcss.com/) / [necolas_idiomatic-html](https://github.com/necolas/idiomatic-html)
         - CSS
-            - [necolas_idiomatic-css](https://github.com/necolas/idiomatic-css) / [bevacqua_css](https://github.com/bevacqua/css)
+            - [HTML/CSS 编码规范 by @mdo](http://codeguide.bootcss.com/) / [necolas_idiomatic-css](https://github.com/necolas/idiomatic-css) / [bevacqua_css](https://github.com/bevacqua/css)
         - JS
             - [rwaldron_idiomatic-js](https://github.com/rwaldron/idiomatic.js/)
     - 其他:
