@@ -6,7 +6,7 @@
     - 网上学习平台:
         - [w3schools.com](http://www.w3schools.com/) / [w3cschool.cc](http://www.w3cschool.cc/) / [w3cschool.cn](http://www.w3cschool.cn/) / [tutsplus](http://tutsplus.com/) / [codecademy](http://www.codecademy.co) / [慕课网](http://www.imooc.com/)-[慕课网学习计划-前端工程师](http://www.imooc.com/course/programdetail/pid/32?from=itblog) / [1KE.CO](http://1ke.co/) / [teamtreehouse](https://teamtreehouse.com/) / [codeschool](https://www.codeschool.com/) / [lynda](http://www.lynda.com/) / [GitHub-百度 IFE 前端学院(强烈推荐)](https://github.com/baidu-ife/ife)
     - JS:
-        - [(译)如何正确学习 JavaScript](http://www.crimx.com/2014/05/15/how-to-learn-javascript-properly/) / [ECMAScript6 入门教程 by 阮一峰](http://es6.ruanyifeng.com/) / [JavaScript 标准参考教程(含bower/grunt等工具的介绍) by 阮一峰](https://github.com/ruanyf/jstutorial) / [JavaScript 全栈教程 by 廖雪峰](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000) / [GitHub-Awesome_Javascript](https://github.com/wwsun/awesome-javascript)
+        - [(译)如何正确学习 JavaScript](http://www.crimx.com/2014/05/15/how-to-learn-javascript-properly/) / [知乎: 如何循序渐进地学习JS?](http://www.zhihu.com/question/19713563) / [ECMAScript6 入门教程 by 阮一峰](http://es6.ruanyifeng.com/) / [JavaScript 标准参考教程(含bower/grunt等工具的介绍) by 阮一峰](https://github.com/ruanyf/jstutorial) / [JavaScript 全栈教程 by 廖雪峰](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000) / [GitHub-Awesome_Javascript](https://github.com/wwsun/awesome-javascript)
     - 框架:
         - [Angular1.0学习笔记](http://checkcheckzz.gitbooks.io/angularjs-learning-notes)
     - Node.js:

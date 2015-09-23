@@ -47,7 +47,7 @@
                 - 数据平台: [Alsotang(Node.js)](http://fxck.it)
                 - 其他: [wileam](http://wileam.com/) / [闲心博客](http://sentsin.com/) / [freestyle](http://freestyle21.cn/about/) / [吴钊](http://www.neoease.com/) / [色拉油啊油](http://www.cnblogs.com/dolphinX/) / [yuanzhaohao(14新人)](http://www.yuanzhaohao.com/) / [徐媛(妹纸/奉小雨)](http://xuyuan923.github.io/) / [Hugo](http://www.ghugo.com/) / [杨森](http://undefinedblog.com/)
         - 腾讯系
-            - ISUX: [_张鑫旭(产量很高)_](http://www.zhangxinxu.com/) / [米随随](http://s5s5.me/) / [余果](http://yuguo.us/)
+            - ISUX: [张鑫旭(产量很高)](http://www.zhangxinxu.com/) / [米随随](http://s5s5.me/) / [余果](http://yuguo.us/)
             - 微信: [大猫](http://bigc.at/) / [黄玄(前阿里航旅无线实习)](http://huangxuan.me/)
             - TGideas: [小倪](http://www.smallni.com/about/)
             - 其他: [hzlzh](http://hzlzh.io/) / [彪叔Twinsen(WebRebuild发起人)](http://www.twinsenliang.net/) / [小黑(以CSS为主)](http://xiaoho.com/) / [Willerce](http://willerce.com/) / [waterwu](http://blog.waterwu.me/) / [黎博](http://www.mxgw.info/) / [苏润梓(14新人)](http://www.surunzi.com/) / [轩枫阁(14新人)](http://www.xuanfengge.com/) / [当耐特(Web动画/喜欢造轮子)](http://weibo.com/iamleizhang)
@@ -63,7 +63,7 @@
             - 注重设计的: [eisneim](http://eisneim.github.io/) / [翁天信(自学党/设计)](http://blog.dandyweng.com/)
             - 全栈类型的: [Veda原型](http://www.nowamagic.net/) /
             - 其他: - [_民工精髓(苏宁)_](http://xufei.gitpress.org) / [CatChen1(百度->豌豆荚->Facebook)](http://chinese.catchen.me/) [CatChen2](http://cathsfz.cnblogs.com/) / [Franky](http://www.cnblogs.com/_franky/) / [sofish(饿了么/pen/typo.css)](http://sofi.sh/) / [贺师俊(百姓网)](http://hax.iteye.com/) / [周文彬(比较关注动画相关的web技术)](http://www.zhouwenbin.com) / [米粽粽(IBM)](http://myst729.github.io/) / [张晓菲(《锋利的jQuery》作者之一)](http://shawphy.com/) / [阿肆](http://www.ivershuo.com/) / [zrong](http://zengrong.net/) / [fancyoung](http://fancyoung.com/) / [白露飞(编译器)](http://typeof.net/) / [汤姆大叔](http://www.cnblogs.com/TomXu) / [justjavac/迷渡](http://justjavac.com/) / [豪情](http://jikey.cnblogs.com/) / [次碳酸钴](http://www.web-tinker.com/) /  [thonatos](http://www.thonatos.com/blog) / [小懒(14新人)](http://laispace.com/) / [代码家](http://blog.daimajia.com/) / [_赵成(Atom 主力开发者)_](http://cheng.guru/) / [廖雪峰(有Git和Python教程)](http://www.liaoxuefeng.com/) / [rlog](http://rlog.cn/) / [大额(skylar)](http://www.cnblogs.com/) / [ZHU Kaidi(花瓣网/Node.js)](http://xcoder.in/) / [CSS魔法](https://github.com/cssmagic/blog) / [xinranliu(UC/妹纸)](http://xinranliu.me/) / [郭宇(多说/前支付宝/独立开发者)](http://guoyu.me/) / [acgtofe(新人)](http://acgtofe.com/) / [_大城小胖(web 游戏专家)_](http://weibo.com/finscn) / [邹润阳(上交研究生/动画/游戏)](http://jerryzou.com/) / [张克炎(留学党)](http://keyanzhang.com/)
-        5. 综合产量较高的个人博客: [_阮一峰(目前在支付宝)_](http://www.ruanyifeng.com/blog/) / [_张鑫旭(腾讯ISUX上海)_](http://www.zhangxinxu.com/)
+        5. 综合产量较高的个人博客: [_阮一峰(目前在支付宝)_](http://www.ruanyifeng.com/blog/) / [张鑫旭(腾讯ISUX上海)](http://www.zhangxinxu.com/)
     - 国外
         - Google
             - [Steve Souders](http://www.stevesouders.com/) / [robdodson](http://robdodson.me/) / [Erik Arvidsson(TC39成员)](http://erik.eae.net) / [Paul Irish](http://www.paulirish.com/) / [Addy Osmani](http://addyosmani.com/blog/)
