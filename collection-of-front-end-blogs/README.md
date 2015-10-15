@@ -1,16 +1,5 @@
 # 前端收集-前端博客
 
-- 标准 / 会议 / 社区 / 组织
-    - 标准:
-        - [WHATWG](https://whatwg.org/) / [W3C](https://www.w3.org) / [html5apps-project](http://html5apps-project.eu/) / [w3cfools](http://www.w3fools.com/) / [webplatform](http://www.webplatform.org/) / [esduscuss(ECMAScript Discussion Archives)](https://esdiscuss.org/) / [scriptol.com](http://www.scriptol.com/)
-    - 会议
-        - 国内: [webrebuild](http://www.webrebuild.org/) / [JSConfChina](http://jsconf.cn/)
-        - 国外: [JSConf](http://jsconf.com/) / [velocityconf](http://velocityconf.com/)
-    - 社区
-        - 国内: [angularjs-cn](http://angularjs.cn/) / [reactChina](http://react-china.org/) / [Node.js 中国](https://cnodejs.org/) / [F2E](http://www.f2e.im/) / [cn.iojs.org](http://cn.iojs.org/)
-    - 组织
-        - [MDN(Mozilla-Developer-Network)](https://developer.mozilla.org) / [w3cfools](http://www.w3fools.com/)
-
 - 聚合类博客
     - 国内:
         - [w3cplus](http://www.w3cplus.com/) / [CSS88](http://www.css88.com/) / [前端观察](http://www.qianduan.net/) / [w3ctech](http://www.w3ctech.com/) / [前端乱炖](http://www.html-js.com/) / [w3cfuns](http://www.w3cfuns.com/) / [CSS 森林](http://www.cssforest.org/) / [大前端](http://www.daqianduan.com/)
@@ -48,6 +37,7 @@
                 - 其他: [wileam](http://wileam.com/) / [闲心博客](http://sentsin.com/) / [freestyle](http://freestyle21.cn/about/) / [吴钊](http://www.neoease.com/) / [色拉油啊油](http://www.cnblogs.com/dolphinX/) / [yuanzhaohao(14新人)](http://www.yuanzhaohao.com/) / [徐媛(妹纸/奉小雨)](http://xuyuan923.github.io/) / [Hugo](http://www.ghugo.com/) / [杨森](http://undefinedblog.com/)
         - 腾讯系
             - ISUX: [张鑫旭(产量很高)](http://www.zhangxinxu.com/) / [米随随](http://s5s5.me/) / [余果](http://yuguo.us/)
+            - CDC: [basecss3](http://www.basecss.net/) / [LukeZhu](http://loo2k.com/) 
             - 微信: [大猫](http://bigc.at/) / [黄玄(前阿里航旅无线实习)](http://huangxuan.me/)
             - TGideas: [小倪](http://www.smallni.com/about/)
             - 其他: [hzlzh](http://hzlzh.io/) / [彪叔Twinsen(WebRebuild发起人)](http://www.twinsenliang.net/) / [小黑(以CSS为主)](http://xiaoho.com/) / [Willerce](http://willerce.com/) / [waterwu](http://blog.waterwu.me/) / [黎博](http://www.mxgw.info/) / [苏润梓(14新人)](http://www.surunzi.com/) / [轩枫阁(14新人)](http://www.xuanfengge.com/) / [当耐特(Web动画/喜欢造轮子)](http://weibo.com/iamleizhang)
