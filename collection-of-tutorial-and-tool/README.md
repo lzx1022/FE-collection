@@ -1,16 +1,16 @@
 # 前端收集-前端教程和工具
 
+- 标准 / 会议 / 社区 / 组织
+    + 标准:
+        + [WHATWG](https://whatwg.org/) / [W3C](https://www.w3.org) / [html5apps-project](http://html5apps-project.eu/) / [w3cfools](http://www.w3fools.com/) / [webplatform](http://www.webplatform.org/) / [esduscuss(ECMAScript Discussion Archives)](https://esdiscuss.org/) / [scriptol.com](http://www.scriptol.com/) / [movethewebforward(内含很多资源)](http://movethewebforward.org/cn/)
+    + 会议
+        + 国内: [webrebuild](http://www.webrebuild.org/) / [JSConfChina](http://jsconf.cn/)
+        + 国外: [JSConf](http://jsconf.com/) / [velocityconf](http://velocityconf.com/)
+    + 社区
+        + 国内: [angularjs-cn](http://angularjs.cn/) / [reactChina](http://react-china.org/) / [Node.js 中国](https://cnodejs.org/) / [F2E](http://www.f2e.im/) / [cn.iojs.org](http://cn.iojs.org/)
+    + 组织
+        + [MDN(Mozilla-Developer-Network)](https://developer.mozilla.org) / [w3cfools](http://www.w3fools.com/)
 - 教程
-    - 标准 / 会议 / 社区 / 组织
-        + 标准:
-            + [WHATWG](https://whatwg.org/) / [W3C](https://www.w3.org) / [html5apps-project](http://html5apps-project.eu/) / [w3cfools](http://www.w3fools.com/) / [webplatform](http://www.webplatform.org/) / [esduscuss(ECMAScript Discussion Archives)](https://esdiscuss.org/) / [scriptol.com](http://www.scriptol.com/) / [movethewebforward(内含很多资源)](http://movethewebforward.org/cn/)
-        + 会议
-            + 国内: [webrebuild](http://www.webrebuild.org/) / [JSConfChina](http://jsconf.cn/)
-            + 国外: [JSConf](http://jsconf.com/) / [velocityconf](http://velocityconf.com/)
-        + 社区
-            + 国内: [angularjs-cn](http://angularjs.cn/) / [reactChina](http://react-china.org/) / [Node.js 中国](https://cnodejs.org/) / [F2E](http://www.f2e.im/) / [cn.iojs.org](http://cn.iojs.org/)
-        + 组织
-            + [MDN(Mozilla-Developer-Network)](https://developer.mozilla.org) / [w3cfools](http://www.w3fools.com/)
     - 指南:
         - [Google: guide-to-technical-development](https://www.google.com/about/careers/students/guide-to-technical-development.html) / [豆列-前端书单](http://www.douban.com/doulist/37622307/) / [peng_gong：程序员必读书单](http://lucida.me/blog/developer-reading-list/)
     - 网上学习平台:
