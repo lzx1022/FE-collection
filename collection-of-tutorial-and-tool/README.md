@@ -16,11 +16,13 @@
     - 网上学习平台:
         - [w3schools.com](http://www.w3schools.com/) / [w3cschool.cc](http://www.w3cschool.cc/) / [w3cschool.cn](http://www.w3cschool.cn/) / [tutsplus](http://tutsplus.com/) / [codecademy](http://www.codecademy.co) / [慕课网](http://www.imooc.com/)-[慕课网学习计划-前端工程师](http://www.imooc.com/course/programdetail/pid/32?from=itblog) / [1KE.CO](http://1ke.co/) / [teamtreehouse](https://teamtreehouse.com/) / [codeschool](https://www.codeschool.com/) / [lynda](http://www.lynda.com/) / [GitHub-百度 IFE 前端学院(强烈推荐)](https://github.com/baidu-ife/ife)
     - JS:
-        - [(译)如何正确学习 JavaScript](http://www.crimx.com/2014/05/15/how-to-learn-javascript-properly/) / [知乎: 如何循序渐进地学习JS?](http://www.zhihu.com/question/19713563) / [ECMAScript6 入门教程 by 阮一峰](http://es6.ruanyifeng.com/) / [JavaScript 标准参考教程(含bower/grunt等工具的介绍) by 阮一峰](https://github.com/ruanyf/jstutorial) / [JavaScript 全栈教程 by 廖雪峰](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000) / [GitHub-Awesome_Javascript](https://github.com/wwsun/awesome-javascript) / [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) / 
+        - [(译)如何正确学习 JavaScript](http://www.crimx.com/2014/05/15/how-to-learn-javascript-properly/) / [知乎: 如何循序渐进地学习JS?](http://www.zhihu.com/question/19713563) / [ECMAScript6 入门教程 by 阮一峰](http://es6.ruanyifeng.com/) / [JavaScript 标准参考教程(含bower/grunt等工具的介绍) by 阮一峰](https://github.com/ruanyf/jstutorial) / [JavaScript 全栈教程 by 廖雪峰](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000) / [GitHub-Awesome_Javascript](https://github.com/wwsun/awesome-javascript) / [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) / [知乎: 如何读 jQuery 源码?](http://www.zhihu.com/question/20521802)
     - 框架:
         - [Angular1.0学习笔记](http://checkcheckzz.gitbooks.io/angularjs-learning-notes)
     - Node.js:
         - [GitHub-七天学会NodeJS](https://github.com/nqdeng/7-days-nodejs) / [GitHub-Node.js 包教不包会](https://github.com/alsotang/node-lessons) /  [从0开始学习Node.js](http://blog.fens.me/series-nodejs/)
+    - React.js:
+        + [GitHub: Redux 官方文档中文翻译](https://github.com/camsong/redux-in-chinese) / 
     - 计算机基础:
         - [GitHub-computer-science-in-javascript](https://github.com/nzakas/computer-science-in-javascript) / [GitHub-免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN) / [网易云课堂-计算机专业课程](http://study.163.com/curricula/cs.htm)
     - 工具:
@@ -35,7 +37,7 @@
     - 代码片段(snippets)
         - [Barret李的代码片段收集板](http://snippets.barretlee.com/index.html#!/snippets/htaccess) 
     - 其他:
-        - [正则表达式30分钟入门教程](http://deerchao.net/tutorials/regex/regex.htm) / [stackoverflow(答疑解惑首选)](http://stackoverflow.com/) / [知乎: 深入学习 Google Analytics 有什么教程推荐?](http://www.zhihu.com/question/19599402) / [GitHub-Google-Web_Fundamentals(内含性能优化等教程)](https://github.com/google/WebFundamentals) / [GitHub-jQuery系列(入门教程/源码分析/框架设计)](https://github.com/JsAaron/jQuery)
+        - [正则表达式30分钟入门教程](http://deerchao.net/tutorials/regex/regex.htm) / [stackoverflow(答疑解惑首选)](http://stackoverflow.com/) / [知乎: 深入学习 Google Analytics 有什么教程推荐?](http://www.zhihu.com/question/19599402) / [GitHub-Google-Web_Fundamentals(内含性能优化等教程)](https://github.com/google/WebFundamentals) / [GitHub-jQuery系列(入门教程/源码分析/框架设计)](https://github.com/JsAaron/jQuery) / [一份关于"Must Watch"视频汇总(含CSS/JS/PHP/Python/startup...)](https://github.com/lifesign/must-watch-list)
 - 书籍资源:
     - [it-eBook](http://it-ebooks.info/) / [50 Free Books for Web Designers & Developers-2014](http://speckyboy.com/2015/01/12/free-web-design-ebooks-2014/) / [Web前端开发推荐阅读书籍及下载-轩枫阁](http://www.xuanfengge.com/fe-books.html)
 - 工具:
